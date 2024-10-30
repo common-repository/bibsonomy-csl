@@ -1,0 +1,21 @@
+Hanika, Tom ; Marx, Maximilian ; Stumme, Gerd ; Cristea, Diana (Bearb.) ; Le Ber, Florence (Bearb.) ; Sertkaya, Baris (Bearb.): Discovering Implicational Knowledge in Wikidata. In: Formal Concept Analysis. Cham : Springer International Publishing, 2019. - ISBN 978-3-030-21462-3, S. 315--323
+Schäfermeier, Bastian ; Hanika, Tom ; Stumme, Gerd: Distances for WiFi Based Topological Indoor Mapping. In-Press, 2019
+International Journal of Computer-Supported Collaborative Learning, 2019
+Stubbemann, Maximilian ; Hanika, Tom ; Stumme, Gerd: Orometric Methods in Bounded Metric Data.. In: CoRR, abs/1907.09239 (2019)
+Wei, Colin ; Ma, Tengyu: Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation. In: , 2019, S. 9722-9733
+Navarro Bullock, Beate ; Hotho, Andreas ; Stumme, Gerd ; Brusilovsky, Peter (Bearb.) ; He, Daqing (Bearb.): Accessing Information with Tags: Search and Ranking In: Social Information Access: Systems and Technologies. Cham : Springer International Publishing, 2018. - ISBN-978-3-319-90092-6, S. 310--343
+Shankar, Varun ; Kirby, Robert M. ; Fogelson, Aaron L.: Robust Node Generation for Meshfree Discretizations on Irregular Domains and Surfaces, 2018. - cite arxiv:1806.02972Comment: 26 pages, 9 figures, accepted SIAM Journal on Scientific Computing
+Wei, Chao-Ke: Container data center , 2015. - Container data center
+Böttger, Sebastian: PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning, 2014
+Doerfel, Stephan ; Zoller, Daniel ; Singer, Philipp ; Niebler, Thomas ; Hotho, Andreas ; Strohmaier, Markus ; (Hrsg.): Of course we Share! Testing Assumptions about Social Tagging Systems, 2014
+Jäschke, Robert ; Hotho, Andreas ; Mitzlaff, Folke ; Stumme, Gerd ; Pazos Arias, José J. (Bearb.) ; Fernández Vilas, Ana (Bearb.) ; Díaz Redondo, Rebeca P. (Bearb.): Challenges in Tag Recommendations for Collaborative Tagging Systems In: Recommender Systems for the Social Web. 32. Berlin/Heidelberg : Springer, 2012 Intelligent Systems Reference Library). - ISBN-978-3-642-25694-3, S. 65--87
+Kibanov, Mark: Untersuchung von Versionsverwaltungssystemen mit Zielsetzung der Optimierung der kollaborativen Entwicklung. Humboldt-University of Berlin, 2012
+Formal Concept Analysis s. 6628. Berlin/Heidelberg : Springer, 2011. - ISBN 978-3-642-20513-2
+Bird, Steven ; Klein, Ewan ; Loper, Edward: Natural Language Processing with Python, 2009
+Hotho, Andreas: Clustern mit Hintergrundwissen. Universit{\"{a}}t Karlsruhe (TH), Institut AIFB, D-76128 Karlsruhe. University of Karlsruhe, 2004. - Studer/Gaul
+Russell, N. ; Hofstede, A.H.M. ter ; Edmond, D. ; Aalst, W.M.P. van der: {Workflow Data Patterns}. QUT Technical report, FIT-TR-2004-01. Queensland University of Technology, Brisbane, 2004
+Smith, Gene: Folksonomy: social classification, 2004. - [Blogeintrag vom 03.08.2004]. Online: \url{http://atomiq.org/archives/2004/08/} \url{folksonomy_social_classification.html}
+Cross-cultural survey methods, 2003
+Russell, Stuart J. ; Norvig, Peter: Artificial Intelligence: A Modern Approach. Zweite. Upper Saddle River, New Jersey, USA : Prentice Hall, 2003. - ISBN 0137903952 9780137903955 0130803022 9780130803023
+Bray, Tim ; Paoli, Jean ; Sperberg-McQueen, C Michael ; Maler, Eve ; Yergeau, Franois: Extensible markup language (XML) 1.0, 2000
+Janosi, Andras ; Steinbrunn, William ; Pfisterer, Matthias ; Detrano, Robert: Heart Disease Data Set, 1988

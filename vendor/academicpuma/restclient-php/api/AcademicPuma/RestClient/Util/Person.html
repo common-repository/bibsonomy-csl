@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="index, follow, all" />
+    <title>AcademicPuma\RestClient\Util\Person | API</title>
+
+            <link rel="stylesheet" type="text/css" href="../../../css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/sami.css">
+        <script src="../../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../../js/bootstrap.min.js"></script>
+        <script src="../../../js/typeahead.min.js"></script>
+        <script src="../../../sami.js"></script>
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    
+    
+    </head>
+
+    <body id="class" data-name="class:AcademicPuma_RestClient_Util_Person" data-root-path="../../../">
+            <div id="content">
+        <div id="left-column">
+                <div id="control-panel">
+                <form id="search-form" action="../../../search.html" method="GET">
+            <span class="glyphicon glyphicon-search"></span>
+            <input name="search"
+                   class="typeahead form-control"
+                   type="search"
+                   placeholder="Search">
+        </form>
+    </div>
+
+                <div id="api-tree"></div>
+
+        </div>
+        <div id="right-column">
+                <nav id="site-nav" class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-elements">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../../../index.html">API</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-elements">
+                <ul class="nav navbar-nav">
+                    <li><a href="../../../classes.html">Classes</a></li>
+                                            <li><a href="../../../namespaces.html">Namespaces</a></li>
+                                        <li><a href="../../../interfaces.html">Interfaces</a></li>
+                    <li><a href="../../../traits.html">Traits</a></li>
+                    <li><a href="../../../doc-index.html">Index</a></li>
+                    <li><a href="../../../search.html">Search</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+                        <div class="namespace-breadcrumbs">
+            <ol class="breadcrumb">
+                <li><span class="label label-default">class</span></li>
+                                                            <li><a href="../../../AcademicPuma.html">AcademicPuma</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient.html">RestClient</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient/Util.html">Util</a></li>
+    
+                <li>Person</li>
+            </ol>
+        </div>
+                <div id="page-content">
+                
+    <div class="page-header">
+        <h1>Person</h1>
+    </div>
+
+    <p>    class
+    <strong>Person</strong>
+</p>
+
+    
+    
+            <h2>Constants</h2>
+
+            <table class="table table-condensed">
+                    <tr>
+                <td>LAST_FIRST_DELIMITER</td>
+                <td class="last">
+                    <p><em>delimiter between the parts of a person's name in the "Last, First" format.</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>LAST_COMMA_FIRST_SPLIT_PATTERN</td>
+                <td class="last">
+                    <p><em>Split pattern for person's name in the "Last, First" format</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>FIRST_SPACE_LAST_SPLIT_PATTERN</td>
+                <td class="last">
+                    <p><em>Split pattern for person's name in the "First Last" format</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>PERSON_NAME_DELIMITER</td>
+                <td class="last">
+                    <p><em>Pattern for spliting names by one of the following characters</em></p>
+                    <p><ul>
+<li>at least two space characters</li>
+<li>new line</li>
+<li>semicolon</li>
+</ul>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>HTML_LINE_BREAK</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>DEFAULT_LAST_FIRST_NAMES</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+            </table>
+
+    
+    
+            <h2>Methods</h2>
+
+            <div class="container-fluid underlined">
+                    <div class="row">
+                <div class="col-md-2 type">
+                    
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method___construct">__construct</a>(string $firstName = &#039;&#039;, string $lastName = &#039;&#039;)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_createPersonsListFromArray">createPersonsListFromArray</a>(<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a>|array $persons_array)
+                                            <p>tries to create an array of persons object from an array of strings</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_concatAuthorList4BibTeX">concatAuthorList4BibTeX</a>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr> $authors)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_createPersonsListFromString">createPersonsListFromString</a>($personsString)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;<a href="../../../AcademicPuma/RestClient/Util/Person.html"><abbr title="AcademicPuma\RestClient\Util\Person">Person</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_createPersonFromString">createPersonFromString</a>($personString)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_serializePersonNames">serializePersonNames</a>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr> $persons, bool $lastFirstNames = self::DEFAULT_LAST_FIRST_NAMES, string $delimiter = self::PERSON_NAME_DELIMITER)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;null|string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_serializePersonName">serializePersonName</a>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Person">Person</abbr> $person, bool $lastFirstName)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getFirstName">getFirstName</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getLastName">getLastName</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_toString">toString</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method___toString">__toString</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+            </div>
+
+
+        <h2>Details</h2>
+
+            <div id="method-details">
+                    <div class="method-item">
+                    <h3 id="method___construct">
+        <div class="location">at line 91</div>
+        <code>                    
+    <strong>__construct</strong>(string $firstName = &#039;&#039;, string $lastName = &#039;&#039;)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$firstName</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$lastName</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_createPersonsListFromArray">
+        <div class="location">at line 104</div>
+        <code>        static            <a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a>
+    <strong>createPersonsListFromArray</strong>(<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a>|array $persons_array)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>tries to create an array of persons object from an array of strings</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a>|array</td>
+                <td>$persons_array</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title=""></abbr></td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_concatAuthorList4BibTeX">
+        <div class="location">at line 123</div>
+        <code>        static            string
+    <strong>concatAuthorList4BibTeX</strong>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr> $authors)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></td>
+                <td>$authors</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_createPersonsListFromString">
+        <div class="location">at line 140</div>
+        <code>        static            
+    <strong>createPersonsListFromString</strong>($personsString)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td></td>
+                <td>$personsString</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_createPersonFromString">
+        <div class="location">at line 153</div>
+        <code>        static            <a href="../../../AcademicPuma/RestClient/Util/Person.html"><abbr title="AcademicPuma\RestClient\Util\Person">Person</abbr></a>
+    <strong>createPersonFromString</strong>($personString)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td></td>
+                <td>$personString</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/Util/Person.html"><abbr title="AcademicPuma\RestClient\Util\Person">Person</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_serializePersonNames">
+        <div class="location">at line 188</div>
+        <code>        static            string
+    <strong>serializePersonNames</strong>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr> $persons, bool $lastFirstNames = self::DEFAULT_LAST_FIRST_NAMES, string $delimiter = self::PERSON_NAME_DELIMITER)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></td>
+                <td>$persons</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>bool</td>
+                <td>$lastFirstNames</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$delimiter</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_serializePersonName">
+        <div class="location">at line 212</div>
+        <code>        static            null|string
+    <strong>serializePersonName</strong>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Person">Person</abbr> $person, bool $lastFirstName)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Util\Person">Person</abbr></td>
+                <td>$person</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>bool</td>
+                <td>$lastFirstName</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>null|string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getFirstName">
+        <div class="location">at line 239</div>
+        <code>                    
+    <strong>getFirstName</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getLastName">
+        <div class="location">at line 243</div>
+        <code>                    
+    <strong>getLastName</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_toString">
+        <div class="location">at line 247</div>
+        <code>                    
+    <strong>toString</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method___toString">
+        <div class="location">at line 251</div>
+        <code>                    
+    <strong>__toString</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+            </div>
+
+    
+            </div>
+                <div id="footer">
+        Generated by <a href="http://sami.sensiolabs.org/">Sami, the API Documentation Generator</a>.
+    </div>
+
+        </div>
+    </div>
+    </body>
+
+</html>

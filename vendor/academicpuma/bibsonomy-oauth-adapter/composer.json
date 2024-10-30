@@ -1,0 +1,22 @@
+{
+	"name" : "academicpuma/bibsonomy-oauth-adapter",
+	"description" : "Guzzle adapter for 3-legged OAuth1 token exchange with PUMA and BibSonomy.",
+	"license" : "GPL-3.0-only",
+	"authors" : [{
+			"name" : "Sebastian Böttger",
+			"email" : "boettger@cs.uni-kassel.de"
+		}
+	],
+	"require" : {
+		"guzzlehttp/guzzle" : "^6.3.0",
+		"guzzlehttp/oauth-subscriber" : "*"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "5.7.*"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"AcademicPuma\\OAuth\\" : "src/"
+		}
+	}
+}

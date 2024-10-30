@@ -1,0 +1,99 @@
+= 2.1.20 =
+- Clean up unused code fragments/comments
+- Added requirements to plugin descriptions
+- Added composer.json
+- Added option to filter duplicated publication by intra/interhash
+
+= 2.1.19 =
+- Remove option to enter own publication host
+- Added option to select pre-defined publication hosts via dropdown
+
+= 2.1.18 =
+- Fixed empty tag cloud widget
+
+= 2.1.17 =
+- Better label for links to publication's host
+- Fixed DOI links not working, if a full link is provided in the BibTeX
+- Fixed bug, where attributes from previous publication were copied, if empty
+
+= 2.1.16 =
+- Upgraded to new RestClient version, fixed sizeof() error
+- Option for DOI-Link and for publication in host
+- Fixed admin panel for pages not working with wrong host or wrong api user/key
+- Cleaner error message, not breaking shown pages
+
+= 2.1.15 =
+- See Version 2.1.14
+
+= 2.1.14 =
+- Fixed a bug where only 20 publications per page were rendered
+
+= 2.1.13 =
+- Using BibSonomy's PHP RestClient instead of CURL requests now
+- Added a feature to place publication list at top, bottom or somehwhere in the middle of the other WordPress content
+- Fixed bug with disabled settings not being displayed correctly in the settings
+- Fixed missing images for certain entrytypes
+- Support for wordpress up to version 5.2.1
+
+= 2.1.12 =
+- Plugin is now disabled by default, when making a new post or page in WordPress
+
+= 2.1.11 =
+- Reverted content source type settings
+- Added option to disable the plugin for certain sites/posts
+
+= 2.1.10 =
+- Fixed issue with generated publication list, even though no user/group is specified
+
+= 2.1.9 =
+- Added optional inline-search for publications
+- Added more options for sorting of publications, instead of a static one
+- Fixed BibTeX and Endnote view
+- Fixed defaults for required selections
+- Fixed help urls for plugin settings
+
+= 2.1.8 =
+- Added the possibility to override global username/api-key settings
+- Updated HTML markup
+
+= 2.1.7 =
+- Fixed notices from WordPress, when in debug mode
+
+= 2.1.6 =
+- Fixed installation error on latest Wordpress version (4.9.8)
+- Beautify enqueuing of scripts and styles
+- Using smart-loading for jQuery scrips
+
+= 2.1.5 =
+- Fixed invalid markup of publication lists
+
+= 2.1.4 =
+- Fixed error preventing usage with PHP7 (CurlHttpRequestProxy)
+
+= 2.1.2 =
+- Fixed missing urlencode for download and preview URLs
+
+= 2.1.1 =
+- Uses a new Version of CiteProc CSL. Have a look at http://bitbucket.org/seboettg/citeproc-csl
+
+= 2.0.0 =
+- Ability to offer download links of documents, show links to EndNote export, and render thumbnails of documents
+- A lot of bug fixes
+- Support for WordPress 4.0
+
+= 1.1.2 =
+- Small bug fixes
+
+= 1.1.1 =
+- Bug fix for error "Fatal error: Cannot redeclare class BibsonomyHelper in /var/www/wp-content/plugins/bibsonomy-csl/BibsonomyHelper.php on line 31" while installing the Plugin.
+
+= 1.1.0 =
+- Limiting the number of tags for TagCloudWidget
+- Grouping by publishing year with or without jump labels
+- Select with a checkbox if you want to output the URL link and BibTeX link
+
+= 1.0 =
+first stable version. Screenshots added and readme.txt changed.
+
+= 0.1 =
+Initial version. Have a lot of fun :)

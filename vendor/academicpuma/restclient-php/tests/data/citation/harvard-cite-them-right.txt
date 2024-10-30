@@ -1,0 +1,41 @@
+Hanika, T.; Marx, M. & Stumme, G. (2019), Discovering Implicational Knowledge in Wikidata, in Diana Cristea; Florence Le Ber & Baris Sertkaya, ed., 'Formal Concept Analysis' , Springer International Publishing, Cham , pp. 315--323 .
+
+Schäfermeier, B.; Hanika, T. & Stumme, G. (2019), 'Distances for WiFi Based Topological Indoor Mapping' , MobiQuitous , In-Press .
+
+(2019), 'International Journal of Computer-Supported Collaborative Learning' , in Springer & International Society of the Learning Sciences, ed., .
+
+Stubbemann, M.; Hanika, T. & Stumme, G. (2019), 'Orometric Methods in Bounded Metric Data.', CoRR abs/1907.09239 .
+
+Wei, C. & Ma, T. (2019), 'Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation' , 9722-9733 .
+
+Navarro Bullock, B.; Hotho, A. & Stumme, G. (2018), Accessing Information with Tags: Search and Ranking , Springer International Publishing , Cham , pp. 310--343 .
+
+Shankar, V.; Kirby, R. M. & Fogelson, A. L. (2018), 'Robust Node Generation for Meshfree Discretizations on Irregular Domains and Surfaces' , cite arxiv:1806.02972Comment: 26 pages, 9 figures, accepted SIAM Journal on Scientific Computing .
+
+Wei, C.-K. (2015), 'Container data center ' , Container data center .
+
+Böttger, S. (2014), 'PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning' , Berufsverband Information Bibliothek , Reutlingen .
+
+Doerfel, S.; Zoller, D.; Singer, P.; Niebler, T.; Hotho, A. & Strohmaier, M. (2014), 'Of course we Share! Testing Assumptions about Social Tagging Systems' , arXiv.org .
+
+Jäschke, R.; Hotho, A.; Mitzlaff, F. & Stumme, G. (2012), Challenges in Tag Recommendations for Collaborative Tagging Systems, in José J. Pazos Arias; Ana Fernández Vilas & Rebeca P. Díaz Redondo, ed., 'Recommender Systems for the Social Web' , Springer, Berlin/Heidelberg , pp. 65--87 .
+
+Kibanov, M. (2012), 'Untersuchung von Versionsverwaltungssystemen mit Zielsetzung der Optimierung der kollaborativen Entwicklung', Master's thesis, Humboldt-University of Berlin.
+
+Valtchev, P. & Jäschke, R., ed. (2011), Formal Concept Analysis , Vol. 6628 , Springer , Berlin/Heidelberg .
+
+Bird, S.; Klein, E. & Loper, E. (2009), 'Natural Language Processing with Python' , in O'Reilly Media, ed., .
+
+Hotho, A. (2004), 'Clustern mit Hintergrundwissen', PhD thesis, University of Karlsruhe.
+
+Russell, N.; Hofstede, A.H.M. ter.; Edmond, D. & Aalst, W.M.P. van der. (2004), 'Workflow Data Patterns' , QUT Technical report, FIT-TR-2004-01 , Queensland University of Technology, Brisbane .
+
+Smith, G. (2004), 'Folksonomy: social classification' , [Blogeintrag vom 03.08.2004]. Online: \url{http://atomiq.org/archives/2004/08/} \url{folksonomy_social_classification.html} .
+
+(2003), 'Cross-cultural survey methods' , in Janet A. Harkness; Fons J. R. van de Vijver; Peter Ph Mohler & Peter Ph. Mohler, ed., , J. Wiley and Wiley-Interscience .
+
+Russell, S. J. & Norvig, P. (2003), Artificial Intelligence: A Modern Approach , Prentice Hall , Upper Saddle River, New Jersey, USA .
+
+Bray, T.; Paoli, J.; Sperberg-McQueen, C. M.; Maler, E. & Yergeau, F. (2000), 'Extensible markup language (XML) 1.0' , W3C recommendation October .
+
+Janosi, A.; Steinbrunn, W.; Pfisterer, M. & Detrano, R. (1988), 'Heart Disease Data Set' .

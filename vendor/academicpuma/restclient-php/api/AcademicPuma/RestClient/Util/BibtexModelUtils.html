@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="index, follow, all" />
+    <title>AcademicPuma\RestClient\Util\BibtexModelUtils | API</title>
+
+            <link rel="stylesheet" type="text/css" href="../../../css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/sami.css">
+        <script src="../../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../../js/bootstrap.min.js"></script>
+        <script src="../../../js/typeahead.min.js"></script>
+        <script src="../../../sami.js"></script>
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    
+    
+    </head>
+
+    <body id="class" data-name="class:AcademicPuma_RestClient_Util_BibtexModelUtils" data-root-path="../../../">
+            <div id="content">
+        <div id="left-column">
+                <div id="control-panel">
+                <form id="search-form" action="../../../search.html" method="GET">
+            <span class="glyphicon glyphicon-search"></span>
+            <input name="search"
+                   class="typeahead form-control"
+                   type="search"
+                   placeholder="Search">
+        </form>
+    </div>
+
+                <div id="api-tree"></div>
+
+        </div>
+        <div id="right-column">
+                <nav id="site-nav" class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-elements">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../../../index.html">API</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-elements">
+                <ul class="nav navbar-nav">
+                    <li><a href="../../../classes.html">Classes</a></li>
+                                            <li><a href="../../../namespaces.html">Namespaces</a></li>
+                                        <li><a href="../../../interfaces.html">Interfaces</a></li>
+                    <li><a href="../../../traits.html">Traits</a></li>
+                    <li><a href="../../../doc-index.html">Index</a></li>
+                    <li><a href="../../../search.html">Search</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+                        <div class="namespace-breadcrumbs">
+            <ol class="breadcrumb">
+                <li><span class="label label-default">class</span></li>
+                                                            <li><a href="../../../AcademicPuma.html">AcademicPuma</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient.html">RestClient</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient/Util.html">Util</a></li>
+    
+                <li>BibtexModelUtils</li>
+            </ol>
+        </div>
+                <div id="page-content">
+                
+    <div class="page-header">
+        <h1>BibtexModelUtils</h1>
+    </div>
+
+    <p>    class
+    <strong>BibtexModelUtils</strong>
+</p>
+
+    
+    
+            <h2>Constants</h2>
+
+            <table class="table table-condensed">
+                    <tr>
+                <td>ADDITIONAL_MISC_FIELD_DESCRIPTION</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>ADDITIONAL_MISC_FIELD_KEYWORDS</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>ADDITIONAL_MISC_FIELD_BIBURL</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>ADDITIONAL_MISC_FIELD_PRIVNOTE</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>ADDITIONAL_MISC_FIELD_ADDED_AT</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>ADDITIONAL_MISC_FIELD_TIMESTAMP</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>ASSIGNMENT_OPERATOR</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>DEFAULT_INTENDATION</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>KEYVALUE_SEPARATOR</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>DEFAULT_OPENING_BRACKET</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>DEFAULT_CLOSING_BRACKET</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+            </table>
+
+    
+            <h2>Properties</h2>
+
+            <table class="table table-condensed">
+                    <tr>
+                <td class="type" id="property_STD_ATTRIBUTES">
+                    static                                                            
+                </td>
+                <td>$STD_ATTRIBUTES</td>
+                <td class="last">
+</td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type" id="property_FULL_BIBTEX_ATTRIBUTES">
+                    static                                                            
+                </td>
+                <td>$FULL_BIBTEX_ATTRIBUTES</td>
+                <td class="last">
+</td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td class="type" id="property_ATTRIBUTE_VALUE_LENGTH_LIMITS">
+                    static                                                            
+                </td>
+                <td>$ATTRIBUTE_VALUE_LENGTH_LIMITS</td>
+                <td class="last">
+</td>
+                <td></td>
+            </tr>
+            </table>
+
+    
+            <h2>Methods</h2>
+
+            <div class="container-fluid underlined">
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_appendRequiredFields">appendRequiredFields</a>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex)
+                                            <p>If no values present, this function sets default values.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_appendBibtexKey">appendBibtexKey</a>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex)
+                                            <p>appends an</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_generateBibtexKey">generateBibtexKey</a>(array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a> $authors, array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a> $editors, string $year, string $title)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getFirstRelevantWord">getFirstRelevantWord</a>($string)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_limitValueLength">limitValueLength</a>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_persons">persons</a>(array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a> $person)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_parseMiscFieldString">parseMiscFieldString</a>($miscFieldString)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_appendMiscProp">appendMiscProp</a>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex, string $prop, string $value = null)
+                                            <p>Creates a misc property in BibTeX style. if $bibtex contains any misc properties,
+it returns that string with appended new misc property.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    static&nbsp;
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_cleanBibtex">cleanBibtex</a>($val)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+            </div>
+
+
+        <h2>Details</h2>
+
+            <div id="method-details">
+                    <div class="method-item">
+                    <h3 id="method_appendRequiredFields">
+        <div class="location">at line 94</div>
+        <code>        static            
+    <strong>appendRequiredFields</strong>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>If no values present, this function sets default values.</p>                    <p>Considered fields: author, editor, year, entrytype, title, bibtexkey</p>            </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr></td>
+                <td>$bibtex</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_appendBibtexKey">
+        <div class="location">at line 117</div>
+        <code>        static            
+    <strong>appendBibtexKey</strong>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>appends an</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr></td>
+                <td>$bibtex</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_generateBibtexKey">
+        <div class="location">at line 138</div>
+        <code>        static            string
+    <strong>generateBibtexKey</strong>(array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a> $authors, array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a> $editors, string $year, string $title)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a></td>
+                <td>$authors</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a></td>
+                <td>$editors</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$year</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$title</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getFirstRelevantWord">
+        <div class="location">at line 171</div>
+        <code>        static            string
+    <strong>getFirstRelevantWord</strong>($string)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td></td>
+                <td>$string</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_limitValueLength">
+        <div class="location">at line 186</div>
+        <code>        static            
+    <strong>limitValueLength</strong>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr></td>
+                <td>$bibtex</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_persons">
+        <div class="location">at line 205</div>
+        <code>        static            <a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a>
+    <strong>persons</strong>(array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a> $person)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>array|<a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a></td>
+                <td>$person</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/Util/Collection/ArrayList.html"><abbr title="AcademicPuma\RestClient\Util\Collection\ArrayList">ArrayList</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_parseMiscFieldString">
+        <div class="location">at line 220</div>
+        <code>        static            
+    <strong>parseMiscFieldString</strong>($miscFieldString)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td></td>
+                <td>$miscFieldString</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_appendMiscProp">
+        <div class="location">at line 234</div>
+        <code>        static            string
+    <strong>appendMiscProp</strong>(<abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr> $bibtex, string $prop, string $value = null)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Creates a misc property in BibTeX style. if $bibtex contains any misc properties,
+it returns that string with appended new misc property.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Util\AcademicPuma\RestClient\Model\Bibtex">Bibtex</abbr></td>
+                <td>$bibtex</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$prop</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$value</td>
+                <td>(optional)</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>formatted for BibTeX misc property</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_cleanBibtex">
+        <div class="location">at line 253</div>
+        <code>        static            
+    <strong>cleanBibtex</strong>($val)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td></td>
+                <td>$val</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+            </div>
+
+    
+            </div>
+                <div id="footer">
+        Generated by <a href="http://sami.sensiolabs.org/">Sami, the API Documentation Generator</a>.
+    </div>
+
+        </div>
+    </div>
+    </body>
+
+</html>

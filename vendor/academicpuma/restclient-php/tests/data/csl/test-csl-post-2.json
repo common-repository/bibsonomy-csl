@@ -1,0 +1,73 @@
+{
+  "DOI": "",
+  "ISBN": "",
+  "ISSN": "",
+  "URL": "",
+  "abstract": "",
+  "annote": "",
+  "author": [
+    {
+      "family": "Doerfel",
+      "given": "Stephan"
+    },
+    {
+      "family": "Zoller",
+      "given": "Daniel"
+    },
+    {
+      "family": "Singer",
+      "given": "Philipp"
+    },
+    {
+      "family": "Niebler",
+      "given": "Thomas"
+    },
+    {
+      "family": "Hotho",
+      "given": "Andreas"
+    },
+    {
+      "family": "Strohmaier",
+      "given": "Markus"
+    }
+  ],
+  "citation-label": "doerfel2014social",
+  "collection-editor": [],
+  "collection-title": "WWW 2014",
+  "container-author": [],
+  "container-title": "Proceedings of the 23rd International World Wide Web Conference",
+  "documents": [
+    {
+      "fileHash": "",
+      "fileName": "pos063-doerfel.pdf",
+      "md5hash": "4f5e73d65ac935f9a6da87721cb24588",
+      "temp": false,
+      "userName": "sdo"
+    }
+  ],
+  "edition": "",
+  "editor": [],
+  "event-date": {
+    "date-parts": [["2014"]],
+    "literal": "2014"
+  },
+  "event-place": "New York, NY, USA",
+  "id": "11fab5468dd4b4e3db662ea5e68df8e0sdo",
+  "issue": "",
+  "issued": {
+    "date-parts": [["2014"]],
+    "literal": "2014"
+  },
+  "keyword": "2014 WWW analyis behavior log myown social tagging user",
+  "note": "",
+  "number": "",
+  "page": "",
+  "page-first": "",
+  "publisher": "ACM",
+  "publisher-place": "New York, NY, USA",
+  "status": "",
+  "title": "How Social is Social Tagging?",
+  "type": "paper-conference",
+  "version": "",
+  "volume": ""
+}

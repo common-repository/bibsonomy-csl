@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibsonomy stat="ok">
+    <posts start="0" end="21">
+        <post description="" postingdate="2019-11-26T14:28:01.000+01:00" changedate="2019-11-26T14:28:01.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="Cross-cultural" href="https://www.bibsonomy.org/api/tags/Cross-cultural"/>
+            <tag name="Methodology" href="https://www.bibsonomy.org/api/tags/Methodology"/>
+            <tag name="Research" href="https://www.bibsonomy.org/api/tags/Research"/>
+            <tag name="Social" href="https://www.bibsonomy.org/api/tags/Social"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="sciences" href="https://www.bibsonomy.org/api/tags/sciences"/>
+            <tag name="studies" href="https://www.bibsonomy.org/api/tags/studies"/>
+            <tag name="surveys" href="https://www.bibsonomy.org/api/tags/surveys"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Cross-cultural survey methods" bibtexKey="harkness2003crosscultural" misc="  pagetotal = {420},&#10;  isbn = {978-0-471-38526-4},&#10;  language = {eng},&#10;  location = {Hoboken, NJ}" entrytype="collection" editor="Harkness, Janet A. and {van de Vijver}, Fons J. R. and Mohler, Peter Ph and Mohler, Peter Ph." publisher="{J. Wiley} and Wiley-Interscience" series="Wiley series in survey methodology" year="2003" intrahash="3dbea45896428c47591d65da470d7c40" interhash="6c1786a5986501aa3ea435bc985ac52e" href="https://www.bibsonomy.org/api/users/citationstyle/posts/3dbea45896428c47591d65da470d7c40"/>
+        </post>
+        <post description="Robust Node Generation for Meshfree Discretizations on Irregular Domains&#10;  and Surfaces" postingdate="2019-11-26T14:21:50.000+01:00" changedate="2019-11-26T14:21:50.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="approximation" href="https://www.bibsonomy.org/api/tags/approximation"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="meshfree" href="https://www.bibsonomy.org/api/tags/meshfree"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Robust Node Generation for Meshfree Discretizations on Irregular Domains&#10;  and Surfaces" bibtexKey="shankar2018robust" bibtexAbstract="We present a new algorithm for the automatic one-shot generation of scattered&#10;node sets on irregular 2D and 3D domains using Poisson disk sampling coupled to&#10;novel parameter-free, high-order parametric Spherical Radial Basis Function&#10;(SBF)-based geometric modeling of irregular domain boundaries. Our algorithm&#10;also automatically modifies the scattered node sets locally for time-varying&#10;embedded boundaries in the domain interior. We derive complexity estimates for&#10;our node generator in 2D and 3D that establish its scalability, and verify&#10;these estimates with timing experiments. We explore the influence of Poisson&#10;disk sampling parameters on both quasi-uniformity in the node sets and errors&#10;in an RBF-FD discretization of the heat equation. In all cases, our framework&#10;requires only a small number of &quot;seed&quot; nodes on domain boundaries. The entire&#10;framework exhibits O(N) complexity in both 2D and 3D." entrytype="preprint" author="Shankar, Varun and Kirby, Robert M. and Fogelson, Aaron L." note="cite arxiv:1806.02972Comment: 26 pages, 9 figures, accepted SIAM Journal on Scientific Computing" year="2018" url="http://arxiv.org/abs/1806.02972" intrahash="841c19be7b54d461a57ee01b12e56b45" interhash="aaf8785ce4f80b573acd1810eda77615" href="https://www.bibsonomy.org/api/users/citationstyle/posts/841c19be7b54d461a57ee01b12e56b45"/>
+        </post>
+        <post description="An Official Publication of the International Society of the Learning Sciences" postingdate="2019-11-26T14:18:10.000+01:00" changedate="2019-11-26T14:18:10.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="e-learning" href="https://www.bibsonomy.org/api/tags/e-learning"/>
+            <tag name="elearning" href="https://www.bibsonomy.org/api/tags/elearning"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="International Journal of Computer-Supported Collaborative Learning" bibtexKey="springer2019international" misc="  issn = {1556-1607}" bibtexAbstract="An official publication of the International Society of the Learning Sciences, the International Journal of Computer-Supported Collaborative Learning (IJCSCL) fosters a deep understanding of the nature, theory, and practice of computer-supported collaborative learning (CSCL). The journal serves as a forum for experts from such disciplines as education, computer science, information technology, psychology, communications, linguistics, anthropology, sociology, and business. Articles investigate how to design the technological settings for collaboration and how people learn in the context of collaborative activity.&#10;&#10;Examining the use of CSCL in education, business, and society, IJCSCL also investigates the psychological, social, and technological impact of CSCL on individuals, groups, and society. The journal publishes original empirical investigations, extensions of previous work, critical and integrative theoretical and methodological contributions, and synthetic reviews." entrytype="periodical" editor="{{Springer}} and {{International Society of the Learning Sciences}}" year="2019" url="https://link.springer.com/journal/11412" intrahash="a93b8d5ff8a971e537715e18f5cd140c" interhash="d327d71be3867492e83a482db2dbc39b" href="https://www.bibsonomy.org/api/users/citationstyle/posts/a93b8d5ff8a971e537715e18f5cd140c"/>
+        </post>
+        <post description="" postingdate="2019-11-26T14:13:55.000+01:00" changedate="2019-11-26T14:13:55.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="concept" href="https://www.bibsonomy.org/api/tags/concept"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="folksonomy" href="https://www.bibsonomy.org/api/tags/folksonomy"/>
+            <tag name="master" href="https://www.bibsonomy.org/api/tags/master"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Folksonomy: social classification" bibtexKey="Sm04" entrytype="unpublished" author="Smith, Gene" note="[Blogeintrag vom 03.08.2004]. Online: \url{http://atomiq.org/archives/2004/08/} \url{folksonomy_social_classification.html}" year="2004" intrahash="ea07fe8733458dd238cbf7fe5798e7ee" interhash="603c887dd72286250eb12dedb0850ae3" href="https://www.bibsonomy.org/api/users/citationstyle/posts/ea07fe8733458dd238cbf7fe5798e7ee"/>
+        </post>
+        <post description="" postingdate="2019-11-26T14:11:47.000+01:00" changedate="2019-11-26T14:11:47.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <tag name="xml" href="https://www.bibsonomy.org/api/tags/xml"/>
+            <bibtex title="Extensible markup language (XML) 1.0" bibtexKey="bray2000extensible" bibtexAbstract="The  Extensible  Markup  Language  (XML)  is  a  subset  of  SGML  that  is  completely  described  in  thisdocument. Its goal is to enable generic SGML to be served, received, and processed on the Web in theway  that  is  now  possible  with  HTML.  XML  has  been  designed  for  ease  of  implementation  and  forinteroperability with both SGML and HTML." entrytype="standard" author="Bray, Tim and Paoli, Jean and Sperberg-McQueen, C Michael and Maler, Eve and Yergeau, Franois" publisher="W3C recommendation October" year="2000" url="https://www.w3.org/TR/xml/" intrahash="63e7ae9223dd91b557d71935667f594d" interhash="a98bbe8340556c05c4779c48da9b65e4" href="https://www.bibsonomy.org/api/users/citationstyle/posts/63e7ae9223dd91b557d71935667f594d"/>
+        </post>
+        <post description="" postingdate="2019-11-26T14:03:39.000+01:00" changedate="2019-11-26T14:04:11.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="container" href="https://www.bibsonomy.org/api/tags/container"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="datacenter" href="https://www.bibsonomy.org/api/tags/datacenter"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Container data center " bibtexKey="wei2015container" bibtexAbstract="A container data center includes a container and a number of information processing systems arranged in two rows. The container includes a top wall, a bottom wall opposite to the top wall, and opposite sidewalls connected between the top wall, the bottom wall, and a raised floor supporting the information processing systems. Each of the sidewalls defines an outlet and an intake respectively to above and below the raised floor. Two groups of the fans respectively are mounted in the air outtake holes of the container. Two air ducts are respectively arranged between the sidewalls and the rows of the data processing systems. Air outside the container flows into the container through the intake to cool the information processing systems, and is guided to the corresponding outlets by the air ducts to be exhausted out of the container by the fans." entrytype="patent" author="Wei, Chao-Ke" note="Container data center" month="04" year="2015" url="https://patents.google.com/patent/US8498110" intrahash="4fe427a8633e23770a34133a27d7139e" interhash="6726b541cc3438570d5437bea270d698" href="https://www.bibsonomy.org/api/users/citationstyle/posts/4fe427a8633e23770a34133a27d7139e"/>
+        </post>
+        <post description="Accessing Information with Tags: Search and Ranking | SpringerLink" postingdate="2019-11-26T13:51:00.000+01:00" changedate="2019-11-26T13:51:00.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="2018" href="https://www.bibsonomy.org/api/tags/2018"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="folkrank" href="https://www.bibsonomy.org/api/tags/folkrank"/>
+            <tag name="folksonomy" href="https://www.bibsonomy.org/api/tags/folksonomy"/>
+            <tag name="itegpub" href="https://www.bibsonomy.org/api/tags/itegpub"/>
+            <tag name="kdepub" href="https://www.bibsonomy.org/api/tags/kdepub"/>
+            <tag name="ode" href="https://www.bibsonomy.org/api/tags/ode"/>
+            <tag name="rank" href="https://www.bibsonomy.org/api/tags/rank"/>
+            <tag name="search" href="https://www.bibsonomy.org/api/tags/search"/>
+            <tag name="tag" href="https://www.bibsonomy.org/api/tags/tag"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Accessing Information with Tags: Search and Ranking" bibtexKey="NavarroBullock2018" misc="  isbn = {978-3-319-90092-6},&#10;  doi = {10.1007/978-3-319-90092-6_9}" bibtexAbstract="With the growth of the Social Web, a variety of new web-based services arose and changed the way users interact with the internet and consume information. One central phenomenon was and is tagging which allows to manage, organize and access information in social systems. Tagging helps to manage all kinds of resources, making their access much easier. The first type of social tagging systems were social bookmarking systems, i.e., platforms for storing and sharing bookmarks on the web rather than just in the browser. Meanwhile, (hash-)tagging is central in many other Social Media systems such as social networking sites and micro-blogging platforms. To allow for efficient information access, special algorithms have been developed to guide the user, to search for information and to rank the content based on tagging information contributed by the users." entrytype="inbook" address="Cham" author="Navarro Bullock, Beate and Hotho, Andreas and Stumme, Gerd" booktitle="Social Information Access: Systems and Technologies" editor="Brusilovsky, Peter and He, Daqing" pages="310--343" publisher="Springer International Publishing" year="2018" url="https://doi.org/10.1007/978-3-319-90092-6_9" intrahash="df420579b2b03b591c1a454151e4c21a" interhash="b3f59d52141c24a442d7f17ee253dfd3" href="https://www.bibsonomy.org/api/users/citationstyle/posts/df420579b2b03b591c1a454151e4c21a"/>
+        </post>
+        <post description="Of course we share! Testing Assumptions about Social Tagging Systems" postingdate="2019-11-26T13:49:51.000+01:00" changedate="2019-11-26T13:49:51.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="2014" href="https://www.bibsonomy.org/api/tags/2014"/>
+            <tag name="analysis" href="https://www.bibsonomy.org/api/tags/analysis"/>
+            <tag name="assumptions" href="https://www.bibsonomy.org/api/tags/assumptions"/>
+            <tag name="bibsonomy" href="https://www.bibsonomy.org/api/tags/bibsonomy"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="data" href="https://www.bibsonomy.org/api/tags/data"/>
+            <tag name="folksonomy" href="https://www.bibsonomy.org/api/tags/folksonomy"/>
+            <tag name="imported" href="https://www.bibsonomy.org/api/tags/imported"/>
+            <tag name="itegpub" href="https://www.bibsonomy.org/api/tags/itegpub"/>
+            <tag name="log" href="https://www.bibsonomy.org/api/tags/log"/>
+            <tag name="sdomyown" href="https://www.bibsonomy.org/api/tags/sdomyown"/>
+            <tag name="share" href="https://www.bibsonomy.org/api/tags/share"/>
+            <tag name="social" href="https://www.bibsonomy.org/api/tags/social"/>
+            <tag name="tagging" href="https://www.bibsonomy.org/api/tags/tagging"/>
+            <tag name="weblog" href="https://www.bibsonomy.org/api/tags/weblog"/>
+            <bibtex title="Of course we Share! Testing Assumptions about Social Tagging Systems" bibtexKey="doerfel2014course" bibtexAbstract="Social tagging systems have established themselves as an important part in today's web and have attracted the interest from our research community in a variety of investigations. The overall vision of our community is that simply through interactions with the system, i.e., through tagging and sharing of resources, users would contribute to building useful semantic structures as well as resource indexes using uncontrolled vocabulary not only due to the easy-to-use mechanics. Henceforth, a variety of assumptions about social tagging systems have emerged, yet testing them has been difficult due to the absence of suitable data. In this work we thoroughly investigate three available assumptions - e.g., is a tagging system really social? - by examining live log data gathered from the real-world public social tagging system BibSonomy. Our empirical results indicate that while some of these assumptions hold to a certain extent, other assumptions need to be reflected and viewed in a very critical light. Our observations have implications for the design of future search and other algorithms to better reflect the actual user behavior." entrytype="techreport" author="Doerfel, Stephan and Zoller, Daniel and Singer, Philipp and Niebler, Thomas and Hotho, Andreas and Strohmaier, Markus" publisher="arXiv.org" year="2014" url="http://arxiv.org/abs/1401.0629" intrahash="65226244d38872576a4eb2aed499aa86" interhash="65f287480af20fc407f7d26677f17b72" href="https://www.bibsonomy.org/api/users/citationstyle/posts/65226244d38872576a4eb2aed499aa86"/>
+        </post>
+        <post description="Distances for WiFi Based Topological Indoor Mapping" postingdate="2019-11-26T13:47:57.000+01:00" changedate="2019-11-26T13:47:57.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="localization" href="https://www.bibsonomy.org/api/tags/localization"/>
+            <tag name="mapping" href="https://www.bibsonomy.org/api/tags/mapping"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <tag name="wifi" href="https://www.bibsonomy.org/api/tags/wifi"/>
+            <bibtex title="Distances for WiFi Based Topological Indoor Mapping" bibtexKey="schafermeier2018distances" bibtexAbstract="For localization and mapping of indoor environments through WiFi signals,&#10;locations are often represented as likelihoods of the received signal strength&#10;indicator. In this work we compare various measures of distance between such&#10;likelihoods in combination with different methods for estimation and&#10;representation. In particular, we show that among the considered distance&#10;measures the Earth Mover's Distance seems the most beneficial for the&#10;localization task. Combined with kernel density estimation we were able to&#10;retain the topological structure of rooms in a real-world office scenario." entrytype="misc" author="Schäfermeier, Bastian and Hanika, Tom and Stumme, Gerd" howpublished="In-Press" publisher="MobiQuitous" year="2019" url="http://arxiv.org/abs/1809.07405" intrahash="7f0ae15f5903b1403efa687a02b3e52e" interhash="6eac6a41cdbdf854f2b22513d65f296c" href="https://www.bibsonomy.org/api/users/citationstyle/posts/7f0ae15f5903b1403efa687a02b3e52e"/>
+        </post>
+        <post description="" postingdate="2019-11-26T13:45:27.000+01:00" changedate="2019-11-26T13:45:27.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="2012" href="https://www.bibsonomy.org/api/tags/2012"/>
+            <tag name="Diplomarbeit" href="https://www.bibsonomy.org/api/tags/Diplomarbeit"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <tag name="versionsverwaltungssystemen" href="https://www.bibsonomy.org/api/tags/versionsverwaltungssystemen"/>
+            <bibtex title="Untersuchung von Versionsverwaltungssystemen mit Zielsetzung der Optimierung der kollaborativen Entwicklung" bibtexKey="kibanov2012untersuchung" bibtexAbstract="Many new version control systems were developed in the last years. These compete with established systems as they implement some new concepts. These concepts influence the collaborative software development and even redefine it. Before a new system is introduced, it must be selected by product and process requirements. This thesis describes the evaluation of version control systems and the integration of the selected system by the example of one project of Capgemini Germany. Different properties of version control systems were examined and software development processes were analysed. The 3-staged process was applied for the selection of the control system version. This thesis also treats the problems of the integration of the selected system Git into the existing software development processes and project environment." entrytype="mastersthesis" author="Kibanov, Mark" school="Humboldt-University of Berlin" month="may" year="2012" intrahash="78749ceea6057d7f230f3d16ac9c9bb2" interhash="c3c12d1f9f67cd5c52efaffa294876db" href="https://www.bibsonomy.org/api/users/citationstyle/posts/78749ceea6057d7f230f3d16ac9c9bb2"/>
+        </post>
+        <post description="Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation" postingdate="2019-11-26T13:43:40.000+01:00" changedate="2019-11-26T13:43:40.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="complexity" href="https://www.bibsonomy.org/api/tags/complexity"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="generalization" href="https://www.bibsonomy.org/api/tags/generalization"/>
+            <tag name="neurips2019" href="https://www.bibsonomy.org/api/tags/neurips2019"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation" bibtexKey="weidatadependent" entrytype="conference" author="Wei, Colin and Ma, Tengyu" pages="9722-9733" year="2019" type="misc" url="http://papers.nips.cc/paper/9166-data-dependent-sample-complexity-of-deep-neural-networks-via-lipschitz-augmentation" intrahash="c91f1704a55f015dad88a784b7c4be66" interhash="777ad303eef80fc20e78b5b3e7ab2345" href="https://www.bibsonomy.org/api/users/citationstyle/posts/c91f1704a55f015dad88a784b7c4be66"/>
+        </post>
+        <post description="Proceedings of the 9th International Conference on Formal Concept Analysis, ICFCA 2011, Nicosia, Cyprus, May 2-6, 2011" postingdate="2019-11-26T13:40:24.000+01:00" changedate="2019-11-26T13:40:24.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="2011" href="https://www.bibsonomy.org/api/tags/2011"/>
+            <tag name="analysis" href="https://www.bibsonomy.org/api/tags/analysis"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="concept" href="https://www.bibsonomy.org/api/tags/concept"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="cyprus" href="https://www.bibsonomy.org/api/tags/cyprus"/>
+            <tag name="fca" href="https://www.bibsonomy.org/api/tags/fca"/>
+            <tag name="formal" href="https://www.bibsonomy.org/api/tags/formal"/>
+            <tag name="icfca" href="https://www.bibsonomy.org/api/tags/icfca"/>
+            <tag name="nicosia" href="https://www.bibsonomy.org/api/tags/nicosia"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Formal Concept Analysis" bibtexKey="valtchev2011formal" misc="  isbn = {978-3-642-20513-2},&#10;  vgwort = {452},&#10;  doi = {10.1007/978-3-642-20514-9_2}" bibtexAbstract="The present volume features a selection of the papers presented at the 9th International Conference on Formal Concept Analysis (ICFCA 2011). Over the years, the ICFCA conference series has grown into the premier forum for dissemination of research on topics from formal concept analysis (FCA) theory and applications, as well as from the related fields of lattices and partially ordered structures. FCA is a multi-disciplinary field with strong roots in the mathematical theory of partial orders and lattices, with tools originating in computer science and artificial intelligence. FCA emerged in the early 1980s from efforts to restructure lattice theory to promote better communication between lattice theorists and potential users of lattice-based methods for data management. Initially, the central theme was the mathematical formalization of concept and conceptual hierarchy. Since then, the field has developed into a constantly growing research area in its own right with a thriving theoretical community and an increasing number of applications in data and knowledge processing including disciplines such as data visualization, information retrieval, machine learning, software engineering, data analysis, data mining, social networks analysis, etc. ICFCA 2011 was held from May 2 to May 6, 2011, in Nicosia, Cyprus. The program committee received 49 high-quality submissions that were subjected to a highly competitive selection process. Each paper was reviewed by three referees (exceptionally two or four). After a first round, some papers got a definitive acceptance status, while others got accepted conditionally to improvements in their content. The latter got to a second round of reviewing. The overall outcome was the acceptance of 16 papers as regular ones for presentation at the conference and publication in this volume. Another seven papers have still been assessed as valuable for discussion at the conference and were therefore collected in the supplementary proceedings. The regular papers presented hereafter cover advances on a wide range of subjects from FCA and related fields. A first group of papers tackled mathematical problems within the FCA field. A subset thereof focused on factor identification within the incidence relation or its lattice representation (papers by Glodeanu and by Krupka). The remainder of the group proposed characterizations of particular classes of ordered structures (papers by Doerfel and by Meschke et al.). A second group of papers addressed algorithmic problems from FCA and related fields. Two papers approached their problems from an algorithmic complexity viewpoint (papers by Distel and by Babin and Kuznetsov) while the final paper in this group addressed algorithmic problems for general lattices, i.e., not represented as formal contexts, with an FCA-based approach (work by Balcázar and Tîrnăucă). A third group studied alternative approaches for extending the expressive power of the core FCA, e.g., by generalizing the standard one-valued attributes to attributes valued in algebraic rings (work by GonzÃ¡lez Calabozo et al.), by introducing pointer-like attributes, a.k.a. links (paper by Kötters), or by substituting set-shaped concept intents with modal logic expressions (paper by Soldano and Ventos). A fourth group focused on data mining-oriented aspects of FCA: agreement lattices in structured data mining (paper by Nedjar et al.), triadic association rule mining (work by Missaoui and Kwuida) and bi-clustering of numerical data (Kaytoue et al.). An addional paper shed some initial light on a key aspect of FCA-based data analysis and mining, i.e., the filtering of interesting concepts (paper by Belohlavek and Macko). Finally, a set of exciting applications of both basic and enhanced FCA frameworks to practical problems have beed described: in analysis of gene expression data (the already mentioned work by GonzÃ¡lez Calabozo et al.), in web services composition (paper by Azmeh et al.) and in browsing and retrieval of structured data (work by Wray and Eklund). This volume also contains three keynote papers submitted by the invited speakers of the conference. All these contributions constitute a volume of high quality which is the result of the hard work done by the authors, the invited speakers and the reviewers. We therefore wish to thank the members of the Program Committee and of the Editorial Board whose steady involvement and professionalism helped a lot. We would also like to acknowledge the participation of all the external reviewers who sent many valuable comments. Kudos also go to EasyChair for having made the reviewing/editing process a real pleasure. Special thanks go to the Cyprus Tourism Organisation for sponsoring the conference and to the University of Nicosia for hosting it. Finally we wish to thank the Conference Chair Florent Domenach and his colleagues from the Organization Committee for the mountains of energy they put behind the conference organization process right from the beginning in order to make it a total success. We would also like to express our gratitude towards Dr. Peristianis, President of the University of Nicosia, for his personal support." entrytype="proceedings" address="Berlin/Heidelberg" editor="Valtchev, Petko and Jäschke, Robert" publisher="Springer" series="Lecture Notes in Artificial Intelligence" volume="6628" month="may" year="2011" url="http://www.springer.com/computer/ai/book/978-3-642-20513-2" intrahash="afd54a24a2eeca1a07f811bd89800d28" interhash="a7fd7ebbb14eacc605ff61cf2759cb06" href="https://www.bibsonomy.org/api/users/citationstyle/posts/afd54a24a2eeca1a07f811bd89800d28"/>
+        </post>
+        <post description="" postingdate="2019-11-26T13:34:30.000+01:00" changedate="2019-11-26T13:35:57.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="2012" href="https://www.bibsonomy.org/api/tags/2012"/>
+            <tag name="bookmarking" href="https://www.bibsonomy.org/api/tags/bookmarking"/>
+            <tag name="challenge" href="https://www.bibsonomy.org/api/tags/challenge"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="collaborative" href="https://www.bibsonomy.org/api/tags/collaborative"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="dc09" href="https://www.bibsonomy.org/api/tags/dc09"/>
+            <tag name="discovery" href="https://www.bibsonomy.org/api/tags/discovery"/>
+            <tag name="folksonomy" href="https://www.bibsonomy.org/api/tags/folksonomy"/>
+            <tag name="recommender" href="https://www.bibsonomy.org/api/tags/recommender"/>
+            <tag name="rsdc08" href="https://www.bibsonomy.org/api/tags/rsdc08"/>
+            <tag name="social" href="https://www.bibsonomy.org/api/tags/social"/>
+            <tag name="tagging" href="https://www.bibsonomy.org/api/tags/tagging"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Challenges in Tag Recommendations for Collaborative Tagging Systems" bibtexKey="jaeschke2012challenges" misc="  isbn = {978-3-642-25694-3},&#10;  affiliation = {Knowledge &amp; Data Engineering Group, University of Kassel, Wilhelmshöher Allee 73, 34121 Kassel, Germany},&#10;  doi = {10.1007/978-3-642-25694-3_3}" bibtexAbstract="Originally introduced by social bookmarking systems, collaborative tagging, or social tagging, has been widely adopted by many web-based systems like wikis, e-commerce platforms, or social networks. Collaborative tagging systems allow users to annotate resources using freely chosen keywords, so called tags . Those tags help users in finding/retrieving resources, discovering new resources, and navigating through the system. The process of tagging resources is laborious. Therefore, most systems support their users by tag recommender components that recommend tags in a personalized way. The Discovery Challenges 2008 and 2009 of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) tackled the problem of tag recommendations in collaborative tagging systems. Researchers were invited to test their methods in a competition on datasets from the social bookmark and publication sharing system BibSonomy. Moreover, the 2009 challenge included an online task where the recommender systems were integrated into BibSonomy and provided recommendations in real time. In this chapter we review, evaluate and summarize the submissions to the two Discovery Challenges and thus lay the groundwork for continuing research in this area." entrytype="incollection" address="Berlin/Heidelberg" author="Jäschke, Robert and Hotho, Andreas and Mitzlaff, Folke and Stumme, Gerd" booktitle="Recommender Systems for the Social Web" editor="Pazos Arias, José J. and Fernández Vilas, Ana and Díaz Redondo, Rebeca P." pages="65--87" publisher="Springer" series="Intelligent Systems Reference Library" volume="32" year="2012" url="http://dx.doi.org/10.1007/978-3-642-25694-3_3" intrahash="7d41d332cccc3e7ba8e7dadfb7996337" interhash="75b1a6f54ef54d0126d0616b5bf77563" href="https://www.bibsonomy.org/api/users/citationstyle/posts/7d41d332cccc3e7ba8e7dadfb7996337"/>
+        </post>
+        <post description="" postingdate="2019-11-26T13:31:19.000+01:00" changedate="2019-11-26T13:31:19.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="Python" href="https://www.bibsonomy.org/api/tags/Python"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="nltk" href="https://www.bibsonomy.org/api/tags/nltk"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Natural Language Processing with Python" bibtexKey="bird2009natural" entrytype="manual" author="Bird, Steven and Klein, Ewan and Loper, Edward" editor="Media, O'Reilly" month="Juni" year="2009" url="http://nltk.org/book/" intrahash="2b18ba6ae94dfd68ad3327b4ae899d5a" interhash="f7b7682ab5a7c7645b21bdb703d4a2ce" href="https://www.bibsonomy.org/api/users/citationstyle/posts/2b18ba6ae94dfd68ad3327b4ae899d5a"/>
+        </post>
+        <post description="" postingdate="2019-11-26T13:27:08.000+01:00" changedate="2019-11-26T13:27:08.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="2004" href="https://www.bibsonomy.org/api/tags/2004"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="clustern" href="https://www.bibsonomy.org/api/tags/clustern"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="hintergrundwissen" href="https://www.bibsonomy.org/api/tags/hintergrundwissen"/>
+            <tag name="ontology" href="https://www.bibsonomy.org/api/tags/ontology"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <tag name="text" href="https://www.bibsonomy.org/api/tags/text"/>
+            <bibtex title="Clustern mit Hintergrundwissen" bibtexKey="phdthesisNo32" entrytype="phdthesis" address="Universit{\&quot;{a}}t Karlsruhe (TH), Institut AIFB, D-76128 Karlsruhe" author="Hotho, Andreas" note="Studer/Gaul" school="University of Karlsruhe" year="2004" intrahash="5bb717f4da468b42a959b0f34e340c83" interhash="174d464d8c6c38b690ab8aa76cd3fe5f" href="https://www.bibsonomy.org/api/users/citationstyle/posts/5bb717f4da468b42a959b0f34e340c83"/>
+        </post>
+        <post description="" postingdate="2019-11-26T13:19:27.000+01:00" changedate="2019-11-26T13:19:27.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="data" href="https://www.bibsonomy.org/api/tags/data"/>
+            <tag name="kdepub" href="https://www.bibsonomy.org/api/tags/kdepub"/>
+            <tag name="metric" href="https://www.bibsonomy.org/api/tags/metric"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Orometric Methods in Bounded Metric Data." bibtexKey="journals/corr/abs-1907-09239" misc="  ee = {http://arxiv.org/abs/1907.09239}" entrytype="article" author="Stubbemann, Maximilian and Hanika, Tom and Stumme, Gerd" journal="CoRR" volume="abs/1907.09239" year="2019" url="http://dblp.uni-trier.de/db/journals/corr/corr1907.html#abs-1907-09239" intrahash="c5e828427056e8c2daeef526cd5ff31f" interhash="988e7bcaf936191140acc0476cd99cb1" href="https://www.bibsonomy.org/api/users/citationstyle/posts/c5e828427056e8c2daeef526cd5ff31f"/>
+        </post>
+        <post description="" postingdate="2019-11-26T13:12:24.000+01:00" changedate="2019-11-26T13:12:24.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="classification" href="https://www.bibsonomy.org/api/tags/classification"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="disease" href="https://www.bibsonomy.org/api/tags/disease"/>
+            <tag name="heart" href="https://www.bibsonomy.org/api/tags/heart"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Heart Disease Data Set" bibtexKey="janosi1988heart" bibtexAbstract="This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The &quot;goal&quot; field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4. " entrytype="dataset" author="Janosi, Andras and Steinbrunn, William and Pfisterer, Matthias and Detrano, Robert" year="1988" url="https://archive.ics.uci.edu/ml/datasets/Heart+Disease" intrahash="792bbd1baec3d58495da567f0975d98e" interhash="5093c339bc8f95e7987305424263708a" href="https://www.bibsonomy.org/api/users/citationstyle/posts/792bbd1baec3d58495da567f0975d98e"/>
+        </post>
+        <post description="Discovering Implicational Knowledge in Wikidata | SpringerLink" postingdate="2019-11-26T12:58:27.000+01:00" changedate="2019-11-26T12:58:27.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Discovering Implicational Knowledge in Wikidata" bibtexKey="10.1007/978-3-030-21462-3_21" misc="  isbn = {978-3-030-21462-3}" bibtexAbstract="Knowledge graphs have recently become the state-of-the-art tool for representing the diverse and complex knowledge of the world. Among the freely available knowledge graphs, Wikidata stands out by being collaboratively edited and curated. Among the vast numbers of facts, complex knowledge is just waiting to be discovered, but the sheer size of Wikidata makes this infeasible for human editors. We apply Formal Concept Analysis to efficiently identify and succinctly represent comprehensible implications that are implicitly present in the data. As a first step, we describe a systematic process to extract conceptual knowledge from Wikidata's complex data model, thus providing a method for obtaining large real-world data sets for FCA. We conduct experiments that show the principal feasibility of the approach, yet also illuminate some of the limitations, and give examples of interesting knowledge discovered." entrytype="inproceedings" address="Cham" author="Hanika, Tom and Marx, Maximilian and Stumme, Gerd" booktitle="Formal Concept Analysis" editor="Cristea, Diana and Le Ber, Florence and Sertkaya, Baris" pages="315--323" publisher="Springer International Publishing" year="2019" intrahash="5817a1ec89f180784fd1431304c1f168" interhash="88b09220487805d3b99270c0349e7062" href="https://www.bibsonomy.org/api/users/citationstyle/posts/5817a1ec89f180784fd1431304c1f168"/>
+        </post>
+        <post description="" postingdate="2019-11-26T12:43:18.000+01:00" changedate="2019-11-26T12:43:18.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="BPM" href="https://www.bibsonomy.org/api/tags/BPM"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="collection" href="https://www.bibsonomy.org/api/tags/collection"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="{Workflow Data Patterns}" bibtexKey="nick_data_pat_qut_2004" entrytype="booklet" address="Queensland University of Technology, Brisbane" author="Russell, N. and Hofstede, {A.H.M. ter} and Edmond, D. and Aalst, {W.M.P. van der}" howpublished="QUT Technical report, FIT-TR-2004-01" year="2004" intrahash="59712f94483595e05157c05cf82fb1f7" interhash="2878a677d3aef7ae50b75cf0108c1ec4" href="https://www.bibsonomy.org/api/users/citationstyle/posts/59712f94483595e05157c05cf82fb1f7"/>
+        </post>
+        <post description="" postingdate="2019-11-26T12:40:16.000+01:00" changedate="2019-11-26T12:40:16.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="ai" href="https://www.bibsonomy.org/api/tags/ai"/>
+            <tag name="artificial" href="https://www.bibsonomy.org/api/tags/artificial"/>
+            <tag name="book" href="https://www.bibsonomy.org/api/tags/book"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="intelligence" href="https://www.bibsonomy.org/api/tags/intelligence"/>
+            <tag name="introduction" href="https://www.bibsonomy.org/api/tags/introduction"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <bibtex title="Artificial Intelligence: A Modern Approach" bibtexKey="russell2003ai" misc="  isbn = {0137903952 9780137903955 0130803022 9780130803023},&#10;  refid = {51325314}" bibtexAbstract="Presents a guide to artificial intelligence, covering such topics as intelligent agents, problem-solving, logical agents, planning, uncertainty, learning, and robotics." entrytype="book" address="Upper Saddle River, New Jersey, USA" author="Russell, Stuart J. and Norvig, Peter" edition="Zweite" publisher="Prentice Hall" year="2003" url="http://aima.cs.berkeley.edu" intrahash="8bd6c9075d5a990c22ee9e0c33d309aa" interhash="240d872993e7cc547f992e6bdde132ec" href="https://www.bibsonomy.org/api/users/citationstyle/posts/8bd6c9075d5a990c22ee9e0c33d309aa"/>
+        </post>
+        <post description="" postingdate="2019-11-26T11:44:50.000+01:00" changedate="2019-11-26T13:36:17.000+01:00">
+            <user name="citationstyle" href="https://www.bibsonomy.org/api/users/citationstyle"/>
+            <group name="public" href="https://www.bibsonomy.org/api/groups/public"/>
+            <tag name="bibliothekartag" href="https://www.bibsonomy.org/api/tags/bibliothekartag"/>
+            <tag name="bibtag" href="https://www.bibsonomy.org/api/tags/bibtag"/>
+            <tag name="citationstyle" href="https://www.bibsonomy.org/api/tags/citationstyle"/>
+            <tag name="csl" href="https://www.bibsonomy.org/api/tags/csl"/>
+            <tag name="präsentation" href="https://www.bibsonomy.org/api/tags/pr%C3%A4sentation"/>
+            <tag name="puma" href="https://www.bibsonomy.org/api/tags/puma"/>
+            <tag name="testing" href="https://www.bibsonomy.org/api/tags/testing"/>
+            <documents>
+                <document filename="Praesentation_bibtag_2014.pdf" md5hash="20ca9c9c2b9ee60583e0f7bb94d4836d" href="https://www.bibsonomy.org/api/users/citationstyle/posts/4c4916e0eab92e3e6465711a2f978885/documents/Praesentation_bibtag_2014.pdf"/>
+            </documents>
+            <bibtex title="PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning" bibtexKey="boettger2014puma" misc="  urn = {urn:nbn:de:0290-opus-16749}" bibtexAbstract="PUMA ist ein Publikationsmanagement-System für die Verwaltung von Internetlesezeichen und zur gemeinsamen Nutzung von wissenschaftlichen Publikationen. Die Organisation geschieht dabei über Tags. PUMA ist so konzipiert, dass es als alleiniges Eingabeportal für bibliografische Metadaten dienen kann. So können Forscher PUMA nicht nur als Online-Literaturverwaltung nutzen, sondern auch eigene Publikationen auf dem Dokumentenserver ihrer Universitätsbibliothek veröffentlichen.&#10;&#10;Ein Modul, das für das Discovery System VuFind entwickelt wurde, schlägt Brücken zwischen den Funktionen der klassischen VuFind-Favoritenliste und Cloud-Funktionen von PUMA. Favorisierte Literaturrecherchen können in einer Merkliste gespeichert werden und stehen sofort in PUMA zur Verfügung. Dadurch lassen sich die Publikationen in eine Vielzahl von Formaten und Zitierstilen exportieren. Zudem müssen die Einträge nicht über verschiedene Merklisten gruppiert werden, sondern lassen sich durch die freie Vergabe von Tags deutlich differenzierter organisieren. Mit PUMA können die Nutzer ihre Daten leicht mit anderen teilen, was es auch für den Einsatz in der Lehre und für Forschergruppen interessant macht. Eine Erweiterung für die eLearning-Plattform Moodle erlaubt die Literaturverwaltung für Online-Kurse. Ähnliche Anwendungen für weitere Plattformen werden derzeit entwickelt.&#10;&#10;Plugins für Content-Management-Systeme ermöglichen Wissenschaftlern sowie Forscher- und Seminargruppen die Darstellung von in PUMA gepflegten Publikationen auf ihren Webseiten. Metadaten aus Publikationswebseiten vieler wissenschaftlicher Verlage lassen sich über Browser-Plugins in PUMA importieren und stehen zur Weiterverarbeitung in Literaturverwaltungen wie Citavi oder zum Zitieren in einer Textverarbeitung zur Verfügung.&#10;&#10;PUMA fügt sich mit diesen Schnittstellen in die bestehenden Anwendungen einer Hochschulbibliothek ein, ergänzt sie als Werkzeug zur Publikationsverwaltung und unterstützt seine Anwender in Forschung und Lehre." entrytype="presentation" address="Reutlingen" author="Böttger, Sebastian" publisher="Berufsverband Information Bibliothek" month="07" year="2014" url="http://www.opus-bayern.de/bib-info/volltexte//2014/1674" intrahash="4c4916e0eab92e3e6465711a2f978885" interhash="fe8d3f1d9a0c7f0b0f4c4ae156a9b00d" href="https://www.bibsonomy.org/api/users/citationstyle/posts/4c4916e0eab92e3e6465711a2f978885"/>
+        </post>
+    </posts>
+</bibsonomy>

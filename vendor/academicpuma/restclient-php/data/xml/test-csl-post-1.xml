@@ -1,0 +1,20 @@
+<bibsonomy stat="ok">
+    <post description="" postingdate="2015-03-09T14:26:34.000+01:00" changedate="2015-03-09T17:54:45.000+01:00">
+        <user name="seboettg" href="http://puma.uni-kassel.de/api/users/seboettg"/>
+        <group name="public" href="http://puma.uni-kassel.de/api/groups/public"/>
+        <tag name="bibliothekartag" href="http://puma.uni-kassel.de/api/tags/bibliothekartag"/>
+        <tag name="discovery_service" href="http://puma.uni-kassel.de/api/tags/discovery_service"/>
+        <tag name="elearning" href="http://puma.uni-kassel.de/api/tags/elearning"/>
+        <tag name="institutional_repository" href="http://puma.uni-kassel.de/api/tags/institutional_repository"/>
+        <tag name="myown" href="http://puma.uni-kassel.de/api/tags/myown"/>
+        <tag name="puma" href="http://puma.uni-kassel.de/api/tags/puma"/>
+        <documents>
+            <document filename="Praesentation_bibtag_2014_1.pdf" md5hash="e1d7bbbaa5447031418939526f350b04" href="http://puma.uni-kassel.de/api/users/seboettg/posts/4c4916e0eab92e3e6465711a2f978885/documents/Praesentation_bibtag_2014_1.pdf"/>
+        </documents>
+        <bibtex title="PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning" bibtexKey="boettger2014puma" misc="" bibtexAbstract="bla" entrytype="presentation" address="Reutlingen" author="Böttger, Sebastian" publisher="Berufsverband Information Bibliothek" month="07" year="2014" url="http://www.opus-bayern.de/bib-info/volltexte//2014/1674" intrahash="4c4916e0eab92e3e6465711a2f978885" interhash="fe8d3f1d9a0c7f0b0f4c4ae156a9b00d" href="http://puma.uni-kassel.de/api/users/seboettg/posts/4c4916e0eab92e3e6465711a2f978885">
+            <extraurls>
+                <url title="Präsentation als PDF" href="http://www.opus-bayern.de/bib-info/volltexte//2014/1674/pdf/Praesentation_bibtag_2014_1.pdf" date="2015-03-09T17:54:45.000+01:00"/>
+            </extraurls>
+        </bibtex>
+    </post>
+</bibsonomy>

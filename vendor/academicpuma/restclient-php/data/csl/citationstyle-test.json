@@ -1,0 +1,1586 @@
+{
+  "3dbea45896428c47591d65da470d7c40citationstyle": {
+    "DOI": "",
+    "ISBN": "978-0-471-38526-4",
+    "ISSN": "",
+    "URL": "",
+    "abstract": "",
+    "annote": "",
+    "author": [],
+    "citation-label": "harkness2003crosscultural",
+    "collection-editor": [
+      {
+        "family": "Harkness",
+        "given": "Janet A."
+      },
+      {
+        "family": "van de Vijver",
+        "given": "Fons J. R."
+      },
+      {
+        "family": "Mohler",
+        "given": "Peter Ph"
+      },
+      {
+        "family": "Mohler",
+        "given": "Peter Ph."
+      }
+    ],
+    "collection-title": "Wiley series in survey methodology",
+    "container-author": [
+      {
+        "family": "Harkness",
+        "given": "Janet A."
+      },
+      {
+        "family": "van de Vijver",
+        "given": "Fons J. R."
+      },
+      {
+        "family": "Mohler",
+        "given": "Peter Ph"
+      },
+      {
+        "family": "Mohler",
+        "given": "Peter Ph."
+      }
+    ],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [
+      {
+        "family": "Harkness",
+        "given": "Janet A."
+      },
+      {
+        "family": "van de Vijver",
+        "given": "Fons J. R."
+      },
+      {
+        "family": "Mohler",
+        "given": "Peter Ph"
+      },
+      {
+        "family": "Mohler",
+        "given": "Peter Ph."
+      }
+    ],
+    "event-date": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ],
+      "literal": "2003"
+    },
+    "event-place": "Hoboken, NJ",
+    "id": "3dbea45896428c47591d65da470d7c40citationstyle",
+    "interhash": "6c1786a5986501aa3ea435bc985ac52e",
+    "intrahash": "3dbea45896428c47591d65da470d7c40",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ],
+      "literal": "2003"
+    },
+    "keyword": "Cross-cultural Methodology Research Social citationstyle csl sciences studies surveys testing",
+    "misc": {
+      "pagetotal": "420",
+      "isbn": "978-0-471-38526-4",
+      "language": "eng",
+      "location": "Hoboken, NJ"
+    },
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "J. Wiley and Wiley-Interscience",
+    "publisher-place": "Hoboken, NJ",
+    "status": "",
+    "title": "Cross-cultural survey methods",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "841c19be7b54d461a57ee01b12e56b45citationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "http://arxiv.org/abs/1806.02972",
+    "abstract": "We present a new algorithm for the automatic one-shot generation of scattered\r\nnode sets on irregular 2D and 3D domains using Poisson disk sampling coupled to\r\nnovel parameter-free, high-order parametric Spherical Radial Basis Function\r\n(SBF)-based geometric modeling of irregular domain boundaries. Our algorithm\r\nalso automatically modifies the scattered node sets locally for time-varying\r\nembedded boundaries in the domain interior. We derive complexity estimates for\r\nour node generator in 2D and 3D that establish its scalability, and verify\r\nthese estimates with timing experiments. We explore the influence of Poisson\r\ndisk sampling parameters on both quasi-uniformity in the node sets and errors\r\nin an RBF-FD discretization of the heat equation. In all cases, our framework\r\nrequires only a small number of \"seed\" nodes on domain boundaries. The entire\r\nframework exhibits O(N) complexity in both 2D and 3D.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Shankar",
+        "given": "Varun"
+      },
+      {
+        "family": "Kirby",
+        "given": "Robert M."
+      },
+      {
+        "family": "Fogelson",
+        "given": "Aaron L."
+      }
+    ],
+    "citation-label": "shankar2018robust",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ],
+      "literal": "2018"
+    },
+    "event-place": "",
+    "id": "841c19be7b54d461a57ee01b12e56b45citationstyle",
+    "interhash": "aaf8785ce4f80b573acd1810eda77615",
+    "intrahash": "841c19be7b54d461a57ee01b12e56b45",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ],
+      "literal": "2018"
+    },
+    "keyword": "approximation citationstyle csl meshfree testing",
+    "note": "cite arxiv:1806.02972Comment: 26 pages, 9 figures, accepted SIAM Journal on Scientific Computing",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "Robust Node Generation for Meshfree Discretizations on Irregular Domains\r\n  and Surfaces",
+    "type": "manuscript",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "a93b8d5ff8a971e537715e18f5cd140ccitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "1556-1607",
+    "URL": "https://link.springer.com/journal/11412",
+    "abstract": "An official publication of the International Society of the Learning Sciences, the International Journal of Computer-Supported Collaborative Learning (IJCSCL) fosters a deep understanding of the nature, theory, and practice of computer-supported collaborative learning (CSCL). The journal serves as a forum for experts from such disciplines as education, computer science, information technology, psychology, communications, linguistics, anthropology, sociology, and business. Articles investigate how to design the technological settings for collaboration and how people learn in the context of collaborative activity.\r\n\r\nExamining the use of CSCL in education, business, and society, IJCSCL also investigates the psychological, social, and technological impact of CSCL on individuals, groups, and society. The journal publishes original empirical investigations, extensions of previous work, critical and integrative theoretical and methodological contributions, and synthetic reviews.",
+    "annote": "",
+    "author": [],
+    "citation-label": "springer2019international",
+    "collection-editor": [
+      {
+        "family": "Springer",
+        "given": ""
+      },
+      {
+        "family": "International Society of the Learning Sciences",
+        "given": ""
+      }
+    ],
+    "collection-title": "",
+    "container-author": [
+      {
+        "family": "Springer",
+        "given": ""
+      },
+      {
+        "family": "International Society of the Learning Sciences",
+        "given": ""
+      }
+    ],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [
+      {
+        "family": "Springer",
+        "given": ""
+      },
+      {
+        "family": "International Society of the Learning Sciences",
+        "given": ""
+      }
+    ],
+    "event-date": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "event-place": "",
+    "id": "a93b8d5ff8a971e537715e18f5cd140ccitationstyle",
+    "interhash": "d327d71be3867492e83a482db2dbc39b",
+    "intrahash": "a93b8d5ff8a971e537715e18f5cd140c",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "keyword": "citationstyle csl e-learning elearning testing",
+    "misc": {
+      "issn": "1556-1607"
+    },
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "International Journal of Computer-Supported Collaborative Learning",
+    "type": "book",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "ea07fe8733458dd238cbf7fe5798e7eecitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "",
+    "abstract": "",
+    "annote": "",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Gene"
+      }
+    ],
+    "citation-label": "Sm04",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ],
+      "literal": "2004"
+    },
+    "event-place": "",
+    "id": "ea07fe8733458dd238cbf7fe5798e7eecitationstyle",
+    "interhash": "603c887dd72286250eb12dedb0850ae3",
+    "intrahash": "ea07fe8733458dd238cbf7fe5798e7ee",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ],
+      "literal": "2004"
+    },
+    "keyword": "citationstyle concept csl folksonomy master testing",
+    "note": "Blogeintrag vom 03.08.2004. Online: http://atomiq.org/archives/2004/08/ folksonomy_social_classification.html",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "Folksonomy: social classification",
+    "type": "manuscript",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "63e7ae9223dd91b557d71935667f594dcitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "https://www.w3.org/TR/xml/",
+    "abstract": "The  Extensible  Markup  Language  (XML)  is  a  subset  of  SGML  that  is  completely  described  in  thisdocument. Its goal is to enable generic SGML to be served, received, and processed on the Web in theway  that  is  now  possible  with  HTML.  XML  has  been  designed  for  ease  of  implementation  and  forinteroperability with both SGML and HTML.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Bray",
+        "given": "Tim"
+      },
+      {
+        "family": "Paoli",
+        "given": "Jean"
+      },
+      {
+        "family": "Sperberg-McQueen",
+        "given": "C Michael"
+      },
+      {
+        "family": "Maler",
+        "given": "Eve"
+      },
+      {
+        "family": "Yergeau",
+        "given": "Franois"
+      }
+    ],
+    "citation-label": "bray2000extensible",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2000"
+        ]
+      ],
+      "literal": "2000"
+    },
+    "event-place": "",
+    "id": "63e7ae9223dd91b557d71935667f594dcitationstyle",
+    "interhash": "a98bbe8340556c05c4779c48da9b65e4",
+    "intrahash": "63e7ae9223dd91b557d71935667f594d",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2000"
+        ]
+      ],
+      "literal": "2000"
+    },
+    "keyword": "citationstyle csl testing xml",
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "W3C recommendation October",
+    "publisher-place": "",
+    "status": "",
+    "title": "Extensible markup language (XML) 1.0",
+    "type": "legislation",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "4fe427a8633e23770a34133a27d7139ecitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "https://patents.google.com/patent/US8498110",
+    "abstract": "A container data center includes a container and a number of information processing systems arranged in two rows. The container includes a top wall, a bottom wall opposite to the top wall, and opposite sidewalls connected between the top wall, the bottom wall, and a raised floor supporting the information processing systems. Each of the sidewalls defines an outlet and an intake respectively to above and below the raised floor. Two groups of the fans respectively are mounted in the air outtake holes of the container. Two air ducts are respectively arranged between the sidewalls and the rows of the data processing systems. Air outside the container flows into the container through the intake to cool the information processing systems, and is guided to the corresponding outlets by the air ducts to be exhausted out of the container by the fans.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Wei",
+        "given": "Chao-Ke"
+      }
+    ],
+    "citation-label": "wei2015container",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2015",
+          "04"
+        ]
+      ],
+      "literal": "2015"
+    },
+    "event-place": "",
+    "id": "4fe427a8633e23770a34133a27d7139ecitationstyle",
+    "interhash": "6726b541cc3438570d5437bea270d698",
+    "intrahash": "4fe427a8633e23770a34133a27d7139e",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2015",
+          "04"
+        ]
+      ],
+      "literal": "2015"
+    },
+    "keyword": "citationstyle container csl datacenter testing",
+    "note": "Container data center",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "Container data center",
+    "type": "patent",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "df420579b2b03b591c1a454151e4c21acitationstyle": {
+    "DOI": "10.1007/978-3-319-90092-6_9",
+    "ISBN": "978-3-319-90092-6",
+    "ISSN": "",
+    "URL": "https://doi.org/10.1007/978-3-319-90092-6_9",
+    "abstract": "With the growth of the Social Web, a variety of new web-based services arose and changed the way users interact with the internet and consume information. One central phenomenon was and is tagging which allows to manage, organize and access information in social systems. Tagging helps to manage all kinds of resources, making their access much easier. The first type of social tagging systems were social bookmarking systems, i.e., platforms for storing and sharing bookmarks on the web rather than just in the browser. Meanwhile, (hash-)tagging is central in many other Social Media systems such as social networking sites and micro-blogging platforms. To allow for efficient information access, special algorithms have been developed to guide the user, to search for information and to rank the content based on tagging information contributed by the users.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Navarro Bullock",
+        "given": "Beate"
+      },
+      {
+        "family": "Hotho",
+        "given": "Andreas"
+      },
+      {
+        "family": "Stumme",
+        "given": "Gerd"
+      }
+    ],
+    "citation-label": "NavarroBullock2018",
+    "collection-editor": [
+      {
+        "family": "Brusilovsky",
+        "given": "Peter"
+      },
+      {
+        "family": "He",
+        "given": "Daqing"
+      }
+    ],
+    "collection-title": "",
+    "container-author": [
+      {
+        "family": "Brusilovsky",
+        "given": "Peter"
+      },
+      {
+        "family": "He",
+        "given": "Daqing"
+      }
+    ],
+    "container-title": "Social Information Access: Systems and Technologies",
+    "documents": [],
+    "edition": "",
+    "editor": [
+      {
+        "family": "Brusilovsky",
+        "given": "Peter"
+      },
+      {
+        "family": "He",
+        "given": "Daqing"
+      }
+    ],
+    "event-date": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ],
+      "literal": "2018"
+    },
+    "event-place": "Cham",
+    "id": "df420579b2b03b591c1a454151e4c21acitationstyle",
+    "interhash": "b3f59d52141c24a442d7f17ee253dfd3",
+    "intrahash": "df420579b2b03b591c1a454151e4c21a",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ],
+      "literal": "2018"
+    },
+    "keyword": "2018 citationstyle csl folkrank folksonomy itegpub kdepub ode rank search tag testing",
+    "misc": {
+      "isbn": "978-3-319-90092-6",
+      "doi": "10.1007/978-3-319-90092-6_9"
+    },
+    "note": "",
+    "number": "",
+    "number-of-pages": "33",
+    "page": "310--343",
+    "page-first": "310",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "status": "",
+    "title": "Accessing Information with Tags: Search and Ranking",
+    "type": "chapter",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "65226244d38872576a4eb2aed499aa86citationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "http://arxiv.org/abs/1401.0629",
+    "abstract": "Social tagging systems have established themselves as an important part in today's web and have attracted the interest from our research community in a variety of investigations. The overall vision of our community is that simply through interactions with the system, i.e., through tagging and sharing of resources, users would contribute to building useful semantic structures as well as resource indexes using uncontrolled vocabulary not only due to the easy-to-use mechanics. Henceforth, a variety of assumptions about social tagging systems have emerged, yet testing them has been difficult due to the absence of suitable data. In this work we thoroughly investigate three available assumptions - e.g., is a tagging system really social? - by examining live log data gathered from the real-world public social tagging system BibSonomy. Our empirical results indicate that while some of these assumptions hold to a certain extent, other assumptions need to be reflected and viewed in a very critical light. Our observations have implications for the design of future search and other algorithms to better reflect the actual user behavior.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Doerfel",
+        "given": "Stephan"
+      },
+      {
+        "family": "Zoller",
+        "given": "Daniel"
+      },
+      {
+        "family": "Singer",
+        "given": "Philipp"
+      },
+      {
+        "family": "Niebler",
+        "given": "Thomas"
+      },
+      {
+        "family": "Hotho",
+        "given": "Andreas"
+      },
+      {
+        "family": "Strohmaier",
+        "given": "Markus"
+      }
+    ],
+    "citation-label": "doerfel2014course",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ],
+      "literal": "2014"
+    },
+    "event-place": "",
+    "id": "65226244d38872576a4eb2aed499aa86citationstyle",
+    "interhash": "65f287480af20fc407f7d26677f17b72",
+    "intrahash": "65226244d38872576a4eb2aed499aa86",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ],
+      "literal": "2014"
+    },
+    "keyword": "2014 analysis assumptions bibsonomy citationstyle csl data folksonomy imported itegpub log sdomyown share social tagging weblog",
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "arXiv.org",
+    "publisher-place": "",
+    "status": "",
+    "title": "Of course we Share! Testing Assumptions about Social Tagging Systems",
+    "type": "report",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "7f0ae15f5903b1403efa687a02b3e52ecitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "http://arxiv.org/abs/1809.07405",
+    "abstract": "For localization and mapping of indoor environments through WiFi signals,\r\nlocations are often represented as likelihoods of the received signal strength\r\nindicator. In this work we compare various measures of distance between such\r\nlikelihoods in combination with different methods for estimation and\r\nrepresentation. In particular, we show that among the considered distance\r\nmeasures the Earth Mover's Distance seems the most beneficial for the\r\nlocalization task. Combined with kernel density estimation we were able to\r\nretain the topological structure of rooms in a real-world office scenario.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Schäfermeier",
+        "given": "Bastian"
+      },
+      {
+        "family": "Hanika",
+        "given": "Tom"
+      },
+      {
+        "family": "Stumme",
+        "given": "Gerd"
+      }
+    ],
+    "citation-label": "schafermeier2018distances",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "event-place": "",
+    "id": "7f0ae15f5903b1403efa687a02b3e52ecitationstyle",
+    "interhash": "6eac6a41cdbdf854f2b22513d65f296c",
+    "intrahash": "7f0ae15f5903b1403efa687a02b3e52e",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "keyword": "citationstyle csl localization mapping testing wifi",
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "MobiQuitous",
+    "publisher-place": "",
+    "status": "",
+    "title": "Distances for WiFi Based Topological Indoor Mapping",
+    "type": "article",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "78749ceea6057d7f230f3d16ac9c9bb2citationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "",
+    "abstract": "Many new version control systems were developed in the last years. These compete with established systems as they implement some new concepts. These concepts influence the collaborative software development and even redefine it. Before a new system is introduced, it must be selected by product and process requirements. This thesis describes the evaluation of version control systems and the integration of the selected system by the example of one project of Capgemini Germany. Different properties of version control systems were examined and software development processes were analysed. The 3-staged process was applied for the selection of the control system version. This thesis also treats the problems of the integration of the selected system Git into the existing software development processes and project environment.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Kibanov",
+        "given": "Mark"
+      }
+    ],
+    "citation-label": "kibanov2012untersuchung",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2012",
+          "may"
+        ]
+      ],
+      "literal": "2012"
+    },
+    "event-place": "",
+    "genre": "Master thesis",
+    "id": "78749ceea6057d7f230f3d16ac9c9bb2citationstyle",
+    "interhash": "c3c12d1f9f67cd5c52efaffa294876db",
+    "intrahash": "78749ceea6057d7f230f3d16ac9c9bb2",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          "may"
+        ]
+      ],
+      "literal": "2012"
+    },
+    "keyword": "2012 Diplomarbeit citationstyle csl testing versionsverwaltungssystemen",
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "Humboldt-University of Berlin",
+    "publisher-place": "",
+    "status": "",
+    "title": "Untersuchung von Versionsverwaltungssystemen mit Zielsetzung der Optimierung der kollaborativen Entwicklung",
+    "type": "thesis",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "c91f1704a55f015dad88a784b7c4be66citationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "http://papers.nips.cc/paper/9166-data-dependent-sample-complexity-of-deep-neural-networks-via-lipschitz-augmentation",
+    "abstract": "",
+    "annote": "",
+    "author": [
+      {
+        "family": "Wei",
+        "given": "Colin"
+      },
+      {
+        "family": "Ma",
+        "given": "Tengyu"
+      }
+    ],
+    "citation-label": "weidatadependent",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "event-place": "",
+    "id": "c91f1704a55f015dad88a784b7c4be66citationstyle",
+    "interhash": "777ad303eef80fc20e78b5b3e7ab2345",
+    "intrahash": "c91f1704a55f015dad88a784b7c4be66",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "keyword": "citationstyle complexity csl generalization neurips2019 testing",
+    "note": "",
+    "number": "",
+    "number-of-pages": "11",
+    "page": "9722-9733",
+    "page-first": "9722",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation",
+    "type": "paper-conference",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "afd54a24a2eeca1a07f811bd89800d28citationstyle": {
+    "DOI": "10.1007/978-3-642-20514-9_2",
+    "ISBN": "978-3-642-20513-2",
+    "ISSN": "",
+    "URL": "http://www.springer.com/computer/ai/book/978-3-642-20513-2",
+    "abstract": "The present volume features a selection of the papers presented at the 9th International Conference on Formal Concept Analysis (ICFCA 2011). Over the years, the ICFCA conference series has grown into the premier forum for dissemination of research on topics from formal concept analysis (FCA) theory and applications, as well as from the related fields of lattices and partially ordered structures. FCA is a multi-disciplinary field with strong roots in the mathematical theory of partial orders and lattices, with tools originating in computer science and artificial intelligence. FCA emerged in the early 1980s from efforts to restructure lattice theory to promote better communication between lattice theorists and potential users of lattice-based methods for data management. Initially, the central theme was the mathematical formalization of concept and conceptual hierarchy. Since then, the field has developed into a constantly growing research area in its own right with a thriving theoretical community and an increasing number of applications in data and knowledge processing including disciplines such as data visualization, information retrieval, machine learning, software engineering, data analysis, data mining, social networks analysis, etc. ICFCA 2011 was held from May 2 to May 6, 2011, in Nicosia, Cyprus. The program committee received 49 high-quality submissions that were subjected to a highly competitive selection process. Each paper was reviewed by three referees (exceptionally two or four). After a first round, some papers got a definitive acceptance status, while others got accepted conditionally to improvements in their content. The latter got to a second round of reviewing. The overall outcome was the acceptance of 16 papers as regular ones for presentation at the conference and publication in this volume. Another seven papers have still been assessed as valuable for discussion at the conference and were therefore collected in the supplementary proceedings. The regular papers presented hereafter cover advances on a wide range of subjects from FCA and related fields. A first group of papers tackled mathematical problems within the FCA field. A subset thereof focused on factor identification within the incidence relation or its lattice representation (papers by Glodeanu and by Krupka). The remainder of the group proposed characterizations of particular classes of ordered structures (papers by Doerfel and by Meschke et al.). A second group of papers addressed algorithmic problems from FCA and related fields. Two papers approached their problems from an algorithmic complexity viewpoint (papers by Distel and by Babin and Kuznetsov) while the final paper in this group addressed algorithmic problems for general lattices, i.e., not represented as formal contexts, with an FCA-based approach (work by Balcázar and Tîrnăucă). A third group studied alternative approaches for extending the expressive power of the core FCA, e.g., by generalizing the standard one-valued attributes to attributes valued in algebraic rings (work by GonzÃ¡lez Calabozo et al.), by introducing pointer-like attributes, a.k.a. links (paper by Kötters), or by substituting set-shaped concept intents with modal logic expressions (paper by Soldano and Ventos). A fourth group focused on data mining-oriented aspects of FCA: agreement lattices in structured data mining (paper by Nedjar et al.), triadic association rule mining (work by Missaoui and Kwuida) and bi-clustering of numerical data (Kaytoue et al.). An addional paper shed some initial light on a key aspect of FCA-based data analysis and mining, i.e., the filtering of interesting concepts (paper by Belohlavek and Macko). Finally, a set of exciting applications of both basic and enhanced FCA frameworks to practical problems have beed described: in analysis of gene expression data (the already mentioned work by GonzÃ¡lez Calabozo et al.), in web services composition (paper by Azmeh et al.) and in browsing and retrieval of structured data (work by Wray and Eklund). This volume also contains three keynote papers submitted by the invited speakers of the conference. All these contributions constitute a volume of high quality which is the result of the hard work done by the authors, the invited speakers and the reviewers. We therefore wish to thank the members of the Program Committee and of the Editorial Board whose steady involvement and professionalism helped a lot. We would also like to acknowledge the participation of all the external reviewers who sent many valuable comments. Kudos also go to EasyChair for having made the reviewing/editing process a real pleasure. Special thanks go to the Cyprus Tourism Organisation for sponsoring the conference and to the University of Nicosia for hosting it. Finally we wish to thank the Conference Chair Florent Domenach and his colleagues from the Organization Committee for the mountains of energy they put behind the conference organization process right from the beginning in order to make it a total success. We would also like to express our gratitude towards Dr. Peristianis, President of the University of Nicosia, for his personal support.",
+    "annote": "",
+    "author": [],
+    "citation-label": "valtchev2011formal",
+    "collection-editor": [
+      {
+        "family": "Valtchev",
+        "given": "Petko"
+      },
+      {
+        "family": "Jäschke",
+        "given": "Robert"
+      }
+    ],
+    "collection-title": "Lecture Notes in Artificial Intelligence",
+    "container-author": [
+      {
+        "family": "Valtchev",
+        "given": "Petko"
+      },
+      {
+        "family": "Jäschke",
+        "given": "Robert"
+      }
+    ],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [
+      {
+        "family": "Valtchev",
+        "given": "Petko"
+      },
+      {
+        "family": "Jäschke",
+        "given": "Robert"
+      }
+    ],
+    "event-date": {
+      "date-parts": [
+        [
+          "2011",
+          "may"
+        ]
+      ],
+      "literal": "2011"
+    },
+    "event-place": "Berlin/Heidelberg",
+    "id": "afd54a24a2eeca1a07f811bd89800d28citationstyle",
+    "interhash": "a7fd7ebbb14eacc605ff61cf2759cb06",
+    "intrahash": "afd54a24a2eeca1a07f811bd89800d28",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2011",
+          "may"
+        ]
+      ],
+      "literal": "2011"
+    },
+    "keyword": "2011 analysis citationstyle concept csl cyprus fca formal icfca nicosia testing",
+    "misc": {
+      "isbn": "978-3-642-20513-2",
+      "vgwort": "452",
+      "doi": "10.1007/978-3-642-20514-9_2"
+    },
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "Springer",
+    "publisher-place": "Berlin/Heidelberg",
+    "status": "",
+    "title": "Formal Concept Analysis",
+    "type": "book",
+    "username": "citationstyle",
+    "version": "",
+    "volume": "6628"
+  },
+  "7d41d332cccc3e7ba8e7dadfb7996337citationstyle": {
+    "DOI": "10.1007/978-3-642-25694-3_3",
+    "ISBN": "978-3-642-25694-3",
+    "ISSN": "",
+    "URL": "http://dx.doi.org/10.1007/978-3-642-25694-3_3",
+    "abstract": "Originally introduced by social bookmarking systems, collaborative tagging, or social tagging, has been widely adopted by many web-based systems like wikis, e-commerce platforms, or social networks. Collaborative tagging systems allow users to annotate resources using freely chosen keywords, so called tags . Those tags help users in finding/retrieving resources, discovering new resources, and navigating through the system. The process of tagging resources is laborious. Therefore, most systems support their users by tag recommender components that recommend tags in a personalized way. The Discovery Challenges 2008 and 2009 of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) tackled the problem of tag recommendations in collaborative tagging systems. Researchers were invited to test their methods in a competition on datasets from the social bookmark and publication sharing system BibSonomy. Moreover, the 2009 challenge included an online task where the recommender systems were integrated into BibSonomy and provided recommendations in real time. In this chapter we review, evaluate and summarize the submissions to the two Discovery Challenges and thus lay the groundwork for continuing research in this area.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Jäschke",
+        "given": "Robert"
+      },
+      {
+        "family": "Hotho",
+        "given": "Andreas"
+      },
+      {
+        "family": "Mitzlaff",
+        "given": "Folke"
+      },
+      {
+        "family": "Stumme",
+        "given": "Gerd"
+      }
+    ],
+    "citation-label": "jaeschke2012challenges",
+    "collection-editor": [
+      {
+        "family": "Pazos Arias",
+        "given": "José J."
+      },
+      {
+        "family": "Fernández Vilas",
+        "given": "Ana"
+      },
+      {
+        "family": "Díaz Redondo",
+        "given": "Rebeca P."
+      }
+    ],
+    "collection-title": "Intelligent Systems Reference Library",
+    "container-author": [
+      {
+        "family": "Pazos Arias",
+        "given": "José J."
+      },
+      {
+        "family": "Fernández Vilas",
+        "given": "Ana"
+      },
+      {
+        "family": "Díaz Redondo",
+        "given": "Rebeca P."
+      }
+    ],
+    "container-title": "Recommender Systems for the Social Web",
+    "documents": [],
+    "edition": "",
+    "editor": [
+      {
+        "family": "Pazos Arias",
+        "given": "José J."
+      },
+      {
+        "family": "Fernández Vilas",
+        "given": "Ana"
+      },
+      {
+        "family": "Díaz Redondo",
+        "given": "Rebeca P."
+      }
+    ],
+    "event-date": {
+      "date-parts": [
+        [
+          "2012"
+        ]
+      ],
+      "literal": "2012"
+    },
+    "event-place": "Berlin/Heidelberg",
+    "id": "7d41d332cccc3e7ba8e7dadfb7996337citationstyle",
+    "interhash": "75b1a6f54ef54d0126d0616b5bf77563",
+    "intrahash": "7d41d332cccc3e7ba8e7dadfb7996337",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2012"
+        ]
+      ],
+      "literal": "2012"
+    },
+    "keyword": "2012 bookmarking challenge citationstyle collaborative csl dc09 discovery folksonomy recommender rsdc08 social tagging testing",
+    "misc": {
+      "isbn": "978-3-642-25694-3",
+      "affiliation": "Knowledge & Data Engineering Group, University of Kassel, Wilhelmshöher Allee 73, 34121 Kassel, Germany",
+      "doi": "10.1007/978-3-642-25694-3_3"
+    },
+    "note": "",
+    "number": "",
+    "number-of-pages": "22",
+    "page": "65--87",
+    "page-first": "65",
+    "publisher": "Springer",
+    "publisher-place": "Berlin/Heidelberg",
+    "status": "",
+    "title": "Challenges in Tag Recommendations for Collaborative Tagging Systems",
+    "type": "chapter",
+    "username": "citationstyle",
+    "version": "",
+    "volume": "32"
+  },
+  "2b18ba6ae94dfd68ad3327b4ae899d5acitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "http://nltk.org/book/",
+    "abstract": "",
+    "annote": "",
+    "author": [
+      {
+        "family": "Bird",
+        "given": "Steven"
+      },
+      {
+        "family": "Klein",
+        "given": "Ewan"
+      },
+      {
+        "family": "Loper",
+        "given": "Edward"
+      }
+    ],
+    "citation-label": "bird2009natural",
+    "collection-editor": [
+      {
+        "family": "Media",
+        "given": "O'Reilly"
+      }
+    ],
+    "collection-title": "",
+    "container-author": [
+      {
+        "family": "Media",
+        "given": "O'Reilly"
+      }
+    ],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [
+      {
+        "family": "Media",
+        "given": "O'Reilly"
+      }
+    ],
+    "event-date": {
+      "date-parts": [
+        [
+          "2009",
+          "Juni"
+        ]
+      ],
+      "literal": "2009"
+    },
+    "event-place": "",
+    "id": "2b18ba6ae94dfd68ad3327b4ae899d5acitationstyle",
+    "interhash": "f7b7682ab5a7c7645b21bdb703d4a2ce",
+    "intrahash": "2b18ba6ae94dfd68ad3327b4ae899d5a",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2009",
+          "Juni"
+        ]
+      ],
+      "literal": "2009"
+    },
+    "keyword": "Python citationstyle csl nltk testing",
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "Natural Language Processing with Python",
+    "type": "book",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "5bb717f4da468b42a959b0f34e340c83citationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "",
+    "abstract": "",
+    "annote": "",
+    "author": [
+      {
+        "family": "Hotho",
+        "given": "Andreas"
+      }
+    ],
+    "citation-label": "phdthesisNo32",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ],
+      "literal": "2004"
+    },
+    "event-place": "Universität Karlsruhe (TH), Institut AIFB, D-76128 Karlsruhe",
+    "genre": "PhD dissertation",
+    "id": "5bb717f4da468b42a959b0f34e340c83citationstyle",
+    "interhash": "174d464d8c6c38b690ab8aa76cd3fe5f",
+    "intrahash": "5bb717f4da468b42a959b0f34e340c83",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ],
+      "literal": "2004"
+    },
+    "keyword": "2004 citationstyle clustern csl hintergrundwissen ontology testing text",
+    "note": "Studer/Gaul",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "University of Karlsruhe",
+    "publisher-place": "Universität Karlsruhe (TH), Institut AIFB, D-76128 Karlsruhe",
+    "status": "",
+    "title": "Clustern mit Hintergrundwissen",
+    "type": "thesis",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "c5e828427056e8c2daeef526cd5ff31fcitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "http://dblp.uni-trier.de/db/journals/corr/corr1907.html#abs-1907-09239",
+    "abstract": "",
+    "annote": "",
+    "author": [
+      {
+        "family": "Stubbemann",
+        "given": "Maximilian"
+      },
+      {
+        "family": "Hanika",
+        "given": "Tom"
+      },
+      {
+        "family": "Stumme",
+        "given": "Gerd"
+      }
+    ],
+    "citation-label": "journals/corr/abs-1907-09239",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "CoRR",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "event-place": "",
+    "id": "c5e828427056e8c2daeef526cd5ff31fcitationstyle",
+    "interhash": "988e7bcaf936191140acc0476cd99cb1",
+    "intrahash": "c5e828427056e8c2daeef526cd5ff31f",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "keyword": "citationstyle csl data kdepub metric testing",
+    "misc": {
+      "ee": "http://arxiv.org/abs/1907.09239"
+    },
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "Orometric Methods in Bounded Metric Data.",
+    "type": "article-journal",
+    "username": "citationstyle",
+    "version": "",
+    "volume": "abs/1907.09239"
+  },
+  "792bbd1baec3d58495da567f0975d98ecitationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "https://archive.ics.uci.edu/ml/datasets/Heart+Disease",
+    "abstract": "This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The \"goal\" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Janosi",
+        "given": "Andras"
+      },
+      {
+        "family": "Steinbrunn",
+        "given": "William"
+      },
+      {
+        "family": "Pfisterer",
+        "given": "Matthias"
+      },
+      {
+        "family": "Detrano",
+        "given": "Robert"
+      }
+    ],
+    "citation-label": "janosi1988heart",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ],
+      "literal": "1988"
+    },
+    "event-place": "",
+    "id": "792bbd1baec3d58495da567f0975d98ecitationstyle",
+    "interhash": "5093c339bc8f95e7987305424263708a",
+    "intrahash": "792bbd1baec3d58495da567f0975d98e",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ],
+      "literal": "1988"
+    },
+    "keyword": "citationstyle classification csl disease heart testing",
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "",
+    "status": "",
+    "title": "Heart Disease Data Set",
+    "type": "dataset",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "5817a1ec89f180784fd1431304c1f168citationstyle": {
+    "DOI": "",
+    "ISBN": "978-3-030-21462-3",
+    "ISSN": "",
+    "URL": "",
+    "abstract": "Knowledge graphs have recently become the state-of-the-art tool for representing the diverse and complex knowledge of the world. Among the freely available knowledge graphs, Wikidata stands out by being collaboratively edited and curated. Among the vast numbers of facts, complex knowledge is just waiting to be discovered, but the sheer size of Wikidata makes this infeasible for human editors. We apply Formal Concept Analysis to efficiently identify and succinctly represent comprehensible implications that are implicitly present in the data. As a first step, we describe a systematic process to extract conceptual knowledge from Wikidata's complex data model, thus providing a method for obtaining large real-world data sets for FCA. We conduct experiments that show the principal feasibility of the approach, yet also illuminate some of the limitations, and give examples of interesting knowledge discovered.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Hanika",
+        "given": "Tom"
+      },
+      {
+        "family": "Marx",
+        "given": "Maximilian"
+      },
+      {
+        "family": "Stumme",
+        "given": "Gerd"
+      }
+    ],
+    "citation-label": "10.1007/978-3-030-21462-3_21",
+    "collection-editor": [
+      {
+        "family": "Cristea",
+        "given": "Diana"
+      },
+      {
+        "family": "Le Ber",
+        "given": "Florence"
+      },
+      {
+        "family": "Sertkaya",
+        "given": "Baris"
+      }
+    ],
+    "collection-title": "",
+    "container-author": [
+      {
+        "family": "Cristea",
+        "given": "Diana"
+      },
+      {
+        "family": "Le Ber",
+        "given": "Florence"
+      },
+      {
+        "family": "Sertkaya",
+        "given": "Baris"
+      }
+    ],
+    "container-title": "Formal Concept Analysis",
+    "documents": [],
+    "edition": "",
+    "editor": [
+      {
+        "family": "Cristea",
+        "given": "Diana"
+      },
+      {
+        "family": "Le Ber",
+        "given": "Florence"
+      },
+      {
+        "family": "Sertkaya",
+        "given": "Baris"
+      }
+    ],
+    "event-date": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "event-place": "Cham",
+    "id": "5817a1ec89f180784fd1431304c1f168citationstyle",
+    "interhash": "88b09220487805d3b99270c0349e7062",
+    "intrahash": "5817a1ec89f180784fd1431304c1f168",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ],
+      "literal": "2019"
+    },
+    "keyword": "citationstyle csl testing",
+    "misc": {
+      "isbn": "978-3-030-21462-3"
+    },
+    "note": "",
+    "number": "",
+    "number-of-pages": "8",
+    "page": "315--323",
+    "page-first": "315",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "status": "",
+    "title": "Discovering Implicational Knowledge in Wikidata",
+    "type": "paper-conference",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "59712f94483595e05157c05cf82fb1f7citationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "",
+    "abstract": "",
+    "annote": "",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "N."
+      },
+      {
+        "family": "Hofstede",
+        "given": "A.H.M. ter"
+      },
+      {
+        "family": "Edmond",
+        "given": "D."
+      },
+      {
+        "family": "Aalst",
+        "given": "W.M.P. van der"
+      }
+    ],
+    "citation-label": "nick_data_pat_qut_2004",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ],
+      "literal": "2004"
+    },
+    "event-place": "Queensland University of Technology, Brisbane",
+    "id": "59712f94483595e05157c05cf82fb1f7citationstyle",
+    "interhash": "2878a677d3aef7ae50b75cf0108c1ec4",
+    "intrahash": "59712f94483595e05157c05cf82fb1f7",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ],
+      "literal": "2004"
+    },
+    "keyword": "BPM citationstyle collection csl testing",
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "",
+    "publisher-place": "Queensland University of Technology, Brisbane",
+    "status": "",
+    "title": "Workflow Data Patterns",
+    "type": "pamphlet",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "8bd6c9075d5a990c22ee9e0c33d309aacitationstyle": {
+    "DOI": "",
+    "ISBN": "0137903952 9780137903955 0130803022 9780130803023",
+    "ISSN": "",
+    "URL": "http://aima.cs.berkeley.edu",
+    "abstract": "Presents a guide to artificial intelligence, covering such topics as intelligent agents, problem-solving, logical agents, planning, uncertainty, learning, and robotics.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "Stuart J."
+      },
+      {
+        "family": "Norvig",
+        "given": "Peter"
+      }
+    ],
+    "citation-label": "russell2003ai",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [],
+    "edition": "Zweite",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ],
+      "literal": "2003"
+    },
+    "event-place": "Upper Saddle River, New Jersey, USA",
+    "id": "8bd6c9075d5a990c22ee9e0c33d309aacitationstyle",
+    "interhash": "240d872993e7cc547f992e6bdde132ec",
+    "intrahash": "8bd6c9075d5a990c22ee9e0c33d309aa",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ],
+      "literal": "2003"
+    },
+    "keyword": "ai artificial book citationstyle csl intelligence introduction testing",
+    "misc": {
+      "isbn": "0137903952 9780137903955 0130803022 9780130803023",
+      "refid": "51325314"
+    },
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "Prentice Hall",
+    "publisher-place": "Upper Saddle River, New Jersey, USA",
+    "status": "",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "type": "book",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  },
+  "4c4916e0eab92e3e6465711a2f978885citationstyle": {
+    "DOI": "",
+    "ISBN": "",
+    "ISSN": "",
+    "URL": "http://www.opus-bayern.de/bib-info/volltexte//2014/1674",
+    "abstract": "PUMA ist ein Publikationsmanagement-System für die Verwaltung von Internetlesezeichen und zur gemeinsamen Nutzung von wissenschaftlichen Publikationen. Die Organisation geschieht dabei über Tags. PUMA ist so konzipiert, dass es als alleiniges Eingabeportal für bibliografische Metadaten dienen kann. So können Forscher PUMA nicht nur als Online-Literaturverwaltung nutzen, sondern auch eigene Publikationen auf dem Dokumentenserver ihrer Universitätsbibliothek veröffentlichen.\r\n\r\nEin Modul, das für das Discovery System VuFind entwickelt wurde, schlägt Brücken zwischen den Funktionen der klassischen VuFind-Favoritenliste und Cloud-Funktionen von PUMA. Favorisierte Literaturrecherchen können in einer Merkliste gespeichert werden und stehen sofort in PUMA zur Verfügung. Dadurch lassen sich die Publikationen in eine Vielzahl von Formaten und Zitierstilen exportieren. Zudem müssen die Einträge nicht über verschiedene Merklisten gruppiert werden, sondern lassen sich durch die freie Vergabe von Tags deutlich differenzierter organisieren. Mit PUMA können die Nutzer ihre Daten leicht mit anderen teilen, was es auch für den Einsatz in der Lehre und für Forschergruppen interessant macht. Eine Erweiterung für die eLearning-Plattform Moodle erlaubt die Literaturverwaltung für Online-Kurse. Ähnliche Anwendungen für weitere Plattformen werden derzeit entwickelt.\r\n\r\nPlugins für Content-Management-Systeme ermöglichen Wissenschaftlern sowie Forscher- und Seminargruppen die Darstellung von in PUMA gepflegten Publikationen auf ihren Webseiten. Metadaten aus Publikationswebseiten vieler wissenschaftlicher Verlage lassen sich über Browser-Plugins in PUMA importieren und stehen zur Weiterverarbeitung in Literaturverwaltungen wie Citavi oder zum Zitieren in einer Textverarbeitung zur Verfügung.\r\n\r\nPUMA fügt sich mit diesen Schnittstellen in die bestehenden Anwendungen einer Hochschulbibliothek ein, ergänzt sie als Werkzeug zur Publikationsverwaltung und unterstützt seine Anwender in Forschung und Lehre.",
+    "annote": "",
+    "author": [
+      {
+        "family": "Böttger",
+        "given": "Sebastian"
+      }
+    ],
+    "citation-label": "boettger2014puma",
+    "collection-editor": [],
+    "collection-title": "",
+    "container-author": [],
+    "container-title": "",
+    "documents": [
+      {
+        "date": {
+          "date": 26,
+          "day": 2,
+          "hours": 11,
+          "minutes": 44,
+          "month": 10,
+          "seconds": 50,
+          "time": 1574765090000,
+          "timezoneOffset": -60,
+          "year": 119
+        },
+        "fileHash": "0e1d1e79a4a8979710d8567b803c6160",
+        "fileName": "Praesentation_bibtag_2014.pdf",
+        "md5hash": "20ca9c9c2b9ee60583e0f7bb94d4836d",
+        "temp": false,
+        "userName": "citationstyle"
+      }
+    ],
+    "edition": "",
+    "editor": [],
+    "event-date": {
+      "date-parts": [
+        [
+          "2014",
+          "07"
+        ]
+      ],
+      "literal": "2014"
+    },
+    "event-place": "Reutlingen",
+    "id": "4c4916e0eab92e3e6465711a2f978885citationstyle",
+    "interhash": "fe8d3f1d9a0c7f0b0f4c4ae156a9b00d",
+    "intrahash": "4c4916e0eab92e3e6465711a2f978885",
+    "issue": "",
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          "07"
+        ]
+      ],
+      "literal": "2014"
+    },
+    "keyword": "bibliothekartag bibtag citationstyle csl präsentation puma testing",
+    "misc": {
+      "urn": "urn:nbn:de:0290-opus-16749"
+    },
+    "note": "",
+    "number": "",
+    "page": "",
+    "page-first": "",
+    "publisher": "Berufsverband Information Bibliothek",
+    "publisher-place": "Reutlingen",
+    "status": "",
+    "title": "PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning",
+    "type": "speech",
+    "username": "citationstyle",
+    "version": "",
+    "volume": ""
+  }
+}

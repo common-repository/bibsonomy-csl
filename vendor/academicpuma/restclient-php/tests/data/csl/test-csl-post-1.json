@@ -1,0 +1,39 @@
+{
+  "DOI": "",
+  "ISBN": "",
+  "URL": "http:\/\/www.opus-bayern.de\/bib-info\/volltexte\/\/2014\/1674",
+  "abstract": "bla",
+  "author": [
+    {
+      "family": "B\u00f6ttger",
+      "given": "Sebastian"
+    }
+  ],
+  "citation-label": "boettger2014puma",
+  "container-title": "",
+  "documents":[
+    {
+      "fileHash": "",
+      "fileName": "Praesentation_bibtag_2014_1.pdf",
+      "md5hash": "e1d7bbbaa5447031418939526f350b04",
+      "temp": false,
+      "userName": "seboettg"
+    }
+  ],
+  "edition": "",
+  "editor": [],
+  "event-place": "Reutlingen",
+  "id": "4c4916e0eab92e3e6465711a2f978885seboettg",
+  "issue": "",
+  "issued": {
+    "date-parts": [["2014"]],
+    "literal": "2014"
+  },
+  "note": "",
+  "number": "",
+  "page": "",
+  "publisher": "Berufsverband Information Bibliothek",
+  "publisher-place": "Reutlingen",
+  "title": "PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning",
+  "volume": ""
+}

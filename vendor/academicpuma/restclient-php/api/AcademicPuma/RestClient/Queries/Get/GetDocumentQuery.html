@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="index, follow, all" />
+    <title>AcademicPuma\RestClient\Queries\Get\GetDocumentQuery | API</title>
+
+            <link rel="stylesheet" type="text/css" href="../../../../css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../../css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../../css/sami.css">
+        <script src="../../../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../../../js/bootstrap.min.js"></script>
+        <script src="../../../../js/typeahead.min.js"></script>
+        <script src="../../../../sami.js"></script>
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    
+    
+    </head>
+
+    <body id="class" data-name="class:AcademicPuma_RestClient_Queries_Get_GetDocumentQuery" data-root-path="../../../../">
+            <div id="content">
+        <div id="left-column">
+                <div id="control-panel">
+                <form id="search-form" action="../../../../search.html" method="GET">
+            <span class="glyphicon glyphicon-search"></span>
+            <input name="search"
+                   class="typeahead form-control"
+                   type="search"
+                   placeholder="Search">
+        </form>
+    </div>
+
+                <div id="api-tree"></div>
+
+        </div>
+        <div id="right-column">
+                <nav id="site-nav" class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-elements">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../../../../index.html">API</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-elements">
+                <ul class="nav navbar-nav">
+                    <li><a href="../../../../classes.html">Classes</a></li>
+                                            <li><a href="../../../../namespaces.html">Namespaces</a></li>
+                                        <li><a href="../../../../interfaces.html">Interfaces</a></li>
+                    <li><a href="../../../../traits.html">Traits</a></li>
+                    <li><a href="../../../../doc-index.html">Index</a></li>
+                    <li><a href="../../../../search.html">Search</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+                        <div class="namespace-breadcrumbs">
+            <ol class="breadcrumb">
+                <li><span class="label label-default">class</span></li>
+                                                            <li><a href="../../../../AcademicPuma.html">AcademicPuma</a></li>
+                                        <li><a href="../../../../AcademicPuma/RestClient.html">RestClient</a></li>
+                                        <li><a href="../../../../AcademicPuma/RestClient/Queries.html">Queries</a></li>
+                                        <li><a href="../../../../AcademicPuma/RestClient/Queries/Get.html">Get</a></li>
+    
+                <li>GetDocumentQuery</li>
+            </ol>
+        </div>
+                <div id="page-content">
+                
+    <div class="page-header">
+        <h1>GetDocumentQuery</h1>
+    </div>
+
+    <p>    class
+    <strong>GetDocumentQuery</strong>        extends <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a>
+</p>
+
+            <div class="description">
+            <p>Builds URL for GetDocument REST-API calls.</p>            <p>Also holds the response after being executed.</p>        </div>
+    
+    
+    
+    
+            <h2>Methods</h2>
+
+            <div class="container-fluid underlined">
+                    <div class="row">
+                <div class="col-md-2 type">
+                    
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method___construct">__construct</a>(string $userName, string $resourceHash, string $fileName, string $type = Config\DocumentType::FILE)
+                                            <p>The query constructor builds the url and saves it into the url property.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <abbr title="AcademicPuma\RestClient\Queries\Get\$this">$this</abbr>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_execute">execute</a>(<abbr title="AcademicPuma\RestClient\Queries\Get\GuzzleHttp\Client">Client</abbr> $httpClient)
+                                            <p>Execute a prepared query.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    integer
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getStatusCode">getStatusCode</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getStatusCode"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    bool
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_isExecuted">isExecuted</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_isExecuted"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    array
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getHeaders">getHeaders</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getHeaders"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getReasonPhrase">getReasonPhrase</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getReasonPhrase"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getBody">getBody</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getBody"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../../AcademicPuma/RestClient/Model/ModelObject.html"><abbr title="AcademicPuma\RestClient\Model\ModelObject">ModelObject</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_model">model</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_model"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    array
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_csl">csl</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_csl"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_bibliography">bibliography</a>(string $bibliographyStyleName, string $lang = &#039;en-US&#039;, string $bibliographyStyle = &#039;&#039;)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_bibliography"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_bibtex">bibtex</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_bibtex"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    string
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_endnote">endnote</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"><small>from&nbsp;<a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_endnote"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a></small></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <abbr title="GuzzleHttp\Stream\StreamInterface">StreamInterface</abbr>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getStream">getStream</a>()
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+            </div>
+
+
+        <h2>Details</h2>
+
+            <div id="method-details">
+                    <div class="method-item">
+                    <h3 id="method___construct">
+        <div class="location">at line 54</div>
+        <code>                    
+    <strong>__construct</strong>(string $userName, string $resourceHash, string $fileName, string $type = Config\DocumentType::FILE)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>The query constructor builds the url and saves it into the url property.</p>                    <p>GET /users/[username]/posts/[resourcehash]/documents/[fileName]</p>            </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>name of the user holding the post</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>interhash of resource</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$fileName</td>
+                <td>name of the file which will be received</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$type</td>
+                <td>document type</td>
+            </tr>
+            </table>
+
+            
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_execute">
+        <div class="location">at line 73</div>
+        <code>                    <abbr title="AcademicPuma\RestClient\Queries\Get\$this">$this</abbr>
+    <strong>execute</strong>(<abbr title="AcademicPuma\RestClient\Queries\Get\GuzzleHttp\Client">Client</abbr> $httpClient)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Execute a prepared query.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Queries\Get\GuzzleHttp\Client">Client</abbr></td>
+                <td>$httpClient</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><abbr title="AcademicPuma\RestClient\Queries\Get\$this">$this</abbr></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getStatusCode">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getStatusCode"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 128</div>
+        <code>                    integer
+    <strong>getStatusCode</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>integer</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_isExecuted">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_isExecuted"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 135</div>
+        <code>                    bool
+    <strong>isExecuted</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>bool</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getHeaders">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getHeaders"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 142</div>
+        <code>                    array
+    <strong>getHeaders</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>array</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getReasonPhrase">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getReasonPhrase"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 149</div>
+        <code>                    string
+    <strong>getReasonPhrase</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getBody">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_getBody"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 157</div>
+        <code>                    string
+    <strong>getBody</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../../AcademicPuma/RestClient/Exceptions/UnsupportedOperationException.html"><abbr title="AcademicPuma\RestClient\Exceptions\UnsupportedOperationException">UnsupportedOperationException</abbr></a></td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_model">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_model"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 175</div>
+        <code>                    <a href="../../../../AcademicPuma/RestClient/Model/ModelObject.html"><abbr title="AcademicPuma\RestClient\Model\ModelObject">ModelObject</abbr></a>
+    <strong>model</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../../AcademicPuma/RestClient/Model/ModelObject.html"><abbr title="AcademicPuma\RestClient\Model\ModelObject">ModelObject</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../../AcademicPuma/RestClient/Exceptions/UnsupportedOperationException.html"><abbr title="AcademicPuma\RestClient\Exceptions\UnsupportedOperationException">UnsupportedOperationException</abbr></a></td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_csl">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_csl"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 192</div>
+        <code>                    array
+    <strong>csl</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>array</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../../AcademicPuma/RestClient/Exceptions/UnsupportedOperationException.html"><abbr title="AcademicPuma\RestClient\Exceptions\UnsupportedOperationException">UnsupportedOperationException</abbr></a></td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_bibliography">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_bibliography"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 218</div>
+        <code>                    string
+    <strong>bibliography</strong>(string $bibliographyStyleName, string $lang = &#039;en-US&#039;, string $bibliographyStyle = &#039;&#039;)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$bibliographyStyleName</td>
+                <td>supported styles: 'apa', 'din-1505-2', 'ieee', 'harvard1', 'harvard7de', 'vancouver'</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$lang</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$bibliographyStyle</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../../AcademicPuma/RestClient/Exceptions/FileNotFoundException.html"><abbr title="AcademicPuma\RestClient\Exceptions\FileNotFoundException">FileNotFoundException</abbr></a></td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td><a href="../../../../AcademicPuma/RestClient/Exceptions/UnsupportedOperationException.html"><abbr title="AcademicPuma\RestClient\Exceptions\UnsupportedOperationException">UnsupportedOperationException</abbr></a></td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_bibtex">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_bibtex"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 246</div>
+        <code>                    string
+    <strong>bibtex</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../../AcademicPuma/RestClient/Exceptions/UnsupportedOperationException.html"><abbr title="AcademicPuma\RestClient\Exceptions\UnsupportedOperationException">UnsupportedOperationException</abbr></a></td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_endnote">
+        <div class="location">in <a href="../../../../AcademicPuma/RestClient/Queries/AbstractQuery.html#method_endnote"><abbr title="AcademicPuma\RestClient\Queries\AbstractQuery">AbstractQuery</abbr></a> at line 267</div>
+        <code>                    string
+    <strong>endnote</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td>string</td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../../AcademicPuma/RestClient/Exceptions/UnsupportedOperationException.html"><abbr title="AcademicPuma\RestClient\Exceptions\UnsupportedOperationException">UnsupportedOperationException</abbr></a></td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getStream">
+        <div class="location">at line 84</div>
+        <code>                    <abbr title="GuzzleHttp\Stream\StreamInterface">StreamInterface</abbr>
+    <strong>getStream</strong>()</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><abbr title="GuzzleHttp\Stream\StreamInterface">StreamInterface</abbr></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+            </div>
+
+    
+            </div>
+                <div id="footer">
+        Generated by <a href="http://sami.sensiolabs.org/">Sami, the API Documentation Generator</a>.
+    </div>
+
+        </div>
+    </div>
+    </body>
+
+</html>

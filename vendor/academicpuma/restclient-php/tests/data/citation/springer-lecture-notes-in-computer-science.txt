@@ -1,0 +1,21 @@
+1. Bird, S. et al.: Natural Language Processing with Python. (2009).
+2. Böttger, S.: PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning. , Reutlingen (2014).
+3. Bray, T. et al.: Extensible markup language (XML) 1.0. W3C recommendation October (2000).
+4. Doerfel, S. et al.: Of course we Share! Testing Assumptions about Social Tagging Systems. arXiv.org (2014).
+5. Hanika, T. et al.: Discovering Implicational Knowledge in Wikidata. In: Cristea, D. et al. (eds.) Formal Concept Analysis. pp. 315--323 Springer International Publishing, Cham (2019).
+6. Harkness, J.A. et al. eds: Cross-cultural survey methods, (2003).
+7. Hotho, A.: Clustern mit Hintergrundwissen. University of Karlsruhe (2004).
+8. Janosi, A. et al.: Heart Disease Data Set, https://archive.ics.uci.edu/ml/datasets/Heart+Disease, (1988).
+9. Jäschke, R. et al.: Challenges in Tag Recommendations for Collaborative Tagging Systems. In: Pazos Arias, J.J. et al. (eds.) Recommender Systems for the Social Web. pp. 65--87 Springer, Berlin/Heidelberg (2012).
+10. Kibanov, M.: Untersuchung von Versionsverwaltungssystemen mit Zielsetzung der Optimierung der kollaborativen Entwicklung. Humboldt-University of Berlin (2012).
+11. Navarro Bullock, B. et al.: Accessing Information with Tags: Search and Ranking. In: Brusilovsky, P. and He, D. (eds.) Social Information Access: Systems and Technologies. pp. 310--343 Springer International Publishing, Cham (2018).
+12. Russell, N. et al.: Workflow Data Patterns, (2004).
+13. Russell, S.J., Norvig, P.: Artificial Intelligence: A Modern Approach. Prentice Hall, Upper Saddle River, New Jersey, USA (2003).
+14. Schäfermeier, B. et al.: Distances for WiFi Based Topological Indoor Mapping, http://arxiv.org/abs/1809.07405, (2019).
+15. Shankar, V. et al.: Robust Node Generation for Meshfree Discretizations on Irregular Domains    and Surfaces, http://arxiv.org/abs/1806.02972, (2018).
+16. Smith, G.: Folksonomy: social classification, (2004).
+17. Springer, International Society of the Learning Sciences eds: International Journal of Computer-Supported Collaborative Learning. (2019).
+18. Stubbemann, M. et al.: Orometric Methods in Bounded Metric Data. CoRR. abs/1907.09239, (2019).
+19. Valtchev, P., Jäschke, R. eds: Formal Concept Analysis. Springer, Berlin/Heidelberg (2011).
+20. Wei, C., Ma, T.: Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation. Presented at the (2019).
+21. Wei, C.-K.: Container data center, https://patents.google.com/patent/US8498110, (2015).

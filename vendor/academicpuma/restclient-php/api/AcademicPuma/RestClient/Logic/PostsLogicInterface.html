@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="index, follow, all" />
+    <title>AcademicPuma\RestClient\Logic\PostsLogicInterface | API</title>
+
+            <link rel="stylesheet" type="text/css" href="../../../css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/sami.css">
+        <script src="../../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../../js/bootstrap.min.js"></script>
+        <script src="../../../js/typeahead.min.js"></script>
+        <script src="../../../sami.js"></script>
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    
+    
+    </head>
+
+    <body id="class" data-name="class:AcademicPuma_RestClient_Logic_PostsLogicInterface" data-root-path="../../../">
+            <div id="content">
+        <div id="left-column">
+                <div id="control-panel">
+                <form id="search-form" action="../../../search.html" method="GET">
+            <span class="glyphicon glyphicon-search"></span>
+            <input name="search"
+                   class="typeahead form-control"
+                   type="search"
+                   placeholder="Search">
+        </form>
+    </div>
+
+                <div id="api-tree"></div>
+
+        </div>
+        <div id="right-column">
+                <nav id="site-nav" class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-elements">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../../../index.html">API</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-elements">
+                <ul class="nav navbar-nav">
+                    <li><a href="../../../classes.html">Classes</a></li>
+                                            <li><a href="../../../namespaces.html">Namespaces</a></li>
+                                        <li><a href="../../../interfaces.html">Interfaces</a></li>
+                    <li><a href="../../../traits.html">Traits</a></li>
+                    <li><a href="../../../doc-index.html">Index</a></li>
+                    <li><a href="../../../search.html">Search</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+                        <div class="namespace-breadcrumbs">
+            <ol class="breadcrumb">
+                <li><span class="label label-default">interface</span></li>
+                                                            <li><a href="../../../AcademicPuma.html">AcademicPuma</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient.html">RestClient</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient/Logic.html">Logic</a></li>
+    
+                <li>PostsLogicInterface</li>
+            </ol>
+        </div>
+                <div id="page-content">
+                
+    <div class="page-header">
+        <h1>PostsLogicInterface</h1>
+    </div>
+
+    <p>    interface
+    <strong>PostsLogicInterface</strong>
+</p>
+
+            <div class="description">
+            <p>Interface PostLogicInterface</p>                    </div>
+    
+    
+    
+    
+            <h2>Methods</h2>
+
+            <div class="container-fluid underlined">
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getPosts">getPosts</a>(string $resourceType = Config\Resourcetype::BIBTEX, string $grouping = Config\Grouping::USER, string $groupingName = &#039;&#039;, array $tags = array(), string $resourceHash = &#039;&#039;, string $search = &#039;&#039;, string $format = &#039;xml&#039;, int $start, int $end = 20)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getPostDetails">getPostDetails</a>($userName, $resourceHash)
+                                            <p>Returns details to a post. A post is uniquely identified by a hash of the
+corresponding resource and a username.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_deletePosts">deletePosts</a>(string $userName, string $resourceHash)
+                                            <p>Removes the given post - identified by the connected resource's hash -
+from the user.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_createPosts">createPosts</a>(<a href="../../../AcademicPuma/RestClient/Model/Post.html"><abbr title="AcademicPuma\RestClient\Model\Post">Post</abbr></a>|<a href="../../../AcademicPuma/RestClient/Model/Posts.html"><abbr title="AcademicPuma\RestClient\Model\Posts">Posts</abbr></a> $posts, string $userName)
+                                            <p>POST /api/users/[username]/posts</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_updatePosts">updatePosts</a>(<abbr title="AcademicPuma\RestClient\Logic\AcademicPuma\RestClient\Model\ModelObject">ModelObject</abbr> $posts, string $userName, string $resourceHash)
+                                            <p>Updates the post(s) in the database.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_createDocument">createDocument</a>(string $filePath, string $resourceHash, string $userName)
+                                            <p>Adds a document to a post.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_changeDocumentName">changeDocumentName</a>(string $filePath, string $resourceHash, string $userName, <abbr title="AcademicPuma\RestClient\Logic\AcademicPuma\RestClient\Model\Document">Document</abbr> $document)
+                                            <p>Adds a document to a post.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_getDocumentFile">getDocumentFile</a>(string $userName, string $resourceHash, string $fileName, string $type = Config\DocumentType::FILE)
+                                            <p class="no-description">No description</p>
+                                    </div>
+                <div class="col-md-2"></div>
+            </div>
+                    <div class="row">
+                <div class="col-md-2 type">
+                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+                </div>
+                <div class="col-md-8 type">
+                    <a href="#method_deleteDocument">deleteDocument</a>(string $userName, string $resourceHash, string $fileName)
+                                            <p>Deletes an existing document. If the resourceHash is given, the document
+is assumed to be connected to the corresponding resource (identified by
+the user name in the document). Otherwise the document is independent of
+any post.</p>                </div>
+                <div class="col-md-2"></div>
+            </div>
+            </div>
+
+
+        <h2>Details</h2>
+
+            <div id="method-details">
+                    <div class="method-item">
+                    <h3 id="method_getPosts">
+        <div class="location">at line 65</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>getPosts</strong>(string $resourceType = Config\Resourcetype::BIBTEX, string $grouping = Config\Grouping::USER, string $groupingName = &#039;&#039;, array $tags = array(), string $resourceHash = &#039;&#039;, string $search = &#039;&#039;, string $format = &#039;xml&#039;, int $start, int $end = 20)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$resourceType</td>
+                <td>resource type (bookmark|bibtex)</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$grouping</td>
+                <td>grouping tells whom posts are to be shown: the posts of a
+                             user, of a group or of the viewables.</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$groupingName</td>
+                <td>name of the grouping. if grouping is user, then its the
+                             username. if grouping is set to {@link GroupingEntity#ALL},
+                             then its an empty string!</td>
+            </tr>
+                    <tr>
+                <td>array</td>
+                <td>$tags</td>
+                <td>a set of tags</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>intraHash value of a resource, if one would like to get a list of
+                             all posts belonging to a given resource.</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$search</td>
+                <td>free text search</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$format</td>
+                <td>Format of received post (xml|json|csl|bibtex|endnote).
+                             Default value is 'xml'. If you want to use the model or any ModelRenderer, please
+                             keep it empty or use 'xml'.</td>
+            </tr>
+                    <tr>
+                <td>int</td>
+                <td>$start</td>
+                <td>inclusive start index of the view window</td>
+            </tr>
+                    <tr>
+                <td>int</td>
+                <td>$end</td>
+                <td>exclusive end index of the view window</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getPostDetails">
+        <div class="location">at line 77</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>getPostDetails</strong>($userName, $resourceHash)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Returns details to a post. A post is uniquely identified by a hash of the
+corresponding resource and a username.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td></td>
+                <td>$userName</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td></td>
+                <td>$resourceHash</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+                            <h4>Exceptions</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../AcademicPuma/RestClient/Exceptions/ResourceNotFoundException.html"><abbr title="AcademicPuma\RestClient\Exceptions\ResourceNotFoundException">ResourceNotFoundException</abbr></a></td>
+                <td>if the resource of a given resourceHash could not be found</td>
+            </tr>
+            </table>
+
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_deletePosts">
+        <div class="location">at line 88</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>deletePosts</strong>(string $userName, string $resourceHash)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Removes the given post - identified by the connected resource's hash -
+from the user.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>user who's posts are to be removed</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>hash of the resource, which is connected to the post to delete</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_createPosts">
+        <div class="location">at line 100</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>createPosts</strong>(<a href="../../../AcademicPuma/RestClient/Model/Post.html"><abbr title="AcademicPuma\RestClient\Model\Post">Post</abbr></a>|<a href="../../../AcademicPuma/RestClient/Model/Posts.html"><abbr title="AcademicPuma\RestClient\Model\Posts">Posts</abbr></a> $posts, string $userName)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>POST /api/users/[username]/posts</p>                    <p>Add post(s) to an user's collection.</p>            </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><a href="../../../AcademicPuma/RestClient/Model/Post.html"><abbr title="AcademicPuma\RestClient\Model\Post">Post</abbr></a>|<a href="../../../AcademicPuma/RestClient/Model/Posts.html"><abbr title="AcademicPuma\RestClient\Model\Posts">Posts</abbr></a></td>
+                <td>$posts</td>
+                <td>the post(s) to add</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>The username under which the posts will be added</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_updatePosts">
+        <div class="location">at line 112</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>updatePosts</strong>(<abbr title="AcademicPuma\RestClient\Logic\AcademicPuma\RestClient\Model\ModelObject">ModelObject</abbr> $posts, string $userName, string $resourceHash)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Updates the post(s) in the database.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Logic\AcademicPuma\RestClient\Model\ModelObject">ModelObject</abbr></td>
+                <td>$posts</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>user name of the post owner</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>of the post</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_createDocument">
+        <div class="location">at line 124</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>createDocument</strong>(string $filePath, string $resourceHash, string $userName)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Adds a document to a post.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$filePath</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_changeDocumentName">
+        <div class="location">at line 137</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>changeDocumentName</strong>(string $filePath, string $resourceHash, string $userName, <abbr title="AcademicPuma\RestClient\Logic\AcademicPuma\RestClient\Model\Document">Document</abbr> $document)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Adds a document to a post.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$filePath</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td><abbr title="AcademicPuma\RestClient\Logic\AcademicPuma\RestClient\Model\Document">Document</abbr></td>
+                <td>$document</td>
+                <td>
+</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_getDocumentFile">
+        <div class="location">at line 149</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>getDocumentFile</strong>(string $userName, string $resourceHash, string $fileName, string $type = Config\DocumentType::FILE)</code>
+    </h3>
+    <div class="details">
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$fileName</td>
+                <td>
+</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$type</td>
+                <td>(file|SMALL|MIDDLE|LARGE). 'file' returns the considered file (e.g. pdf), SMALL, MEDIUM,
+                     LARGE return a png preview image. All options in
+                     <code>\AcademicPuma\RestClient\Config\DocumentType</code></td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+                    <div class="method-item">
+                    <h3 id="method_deleteDocument">
+        <div class="location">at line 164</div>
+        <code>                    <a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a>
+    <strong>deleteDocument</strong>(string $userName, string $resourceHash, string $fileName)</code>
+    </h3>
+    <div class="details">
+                    <div class="method-description">
+                                    <p>Deletes an existing document. If the resourceHash is given, the document
+is assumed to be connected to the corresponding resource (identified by
+the user name in the document). Otherwise the document is independent of
+any post.</p>                                </div>
+                <div class="tags">
+                            <h4>Parameters</h4>
+
+                    <table class="table table-condensed">
+                    <tr>
+                <td>string</td>
+                <td>$userName</td>
+                <td>user name of the post/document owner</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$resourceHash</td>
+                <td>the intraHash of the post the document belongs to</td>
+            </tr>
+                    <tr>
+                <td>string</td>
+                <td>$fileName</td>
+                <td>fileName of the document which should be deleted</td>
+            </tr>
+            </table>
+
+            
+                            <h4>Return Value</h4>
+
+                    <table class="table table-condensed">
+        <tr>
+            <td><a href="../../../AcademicPuma/RestClient/RESTClient.html"><abbr title="AcademicPuma\RestClient\RESTClient">RESTClient</abbr></a></td>
+            <td>
+</td>
+        </tr>
+    </table>
+
+            
+            
+                    </div>
+    </div>
+
+            </div>
+            </div>
+
+    
+            </div>
+                <div id="footer">
+        Generated by <a href="http://sami.sensiolabs.org/">Sami, the API Documentation Generator</a>.
+    </div>
+
+        </div>
+    </div>
+    </body>
+
+</html>

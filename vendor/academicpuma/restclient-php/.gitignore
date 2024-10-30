@@ -1,0 +1,13 @@
+# PHPStorm
+.idea/
+
+# Composer
+composer.lock
+vendor/
+
+# PHP Unit
+.phpunit.cache
+.phpunit.result.cache
+
+# Test bootstraping
+tests/bootstrap.php

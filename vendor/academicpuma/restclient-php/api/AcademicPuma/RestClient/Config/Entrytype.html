@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="index, follow, all" />
+    <title>AcademicPuma\RestClient\Config\Entrytype | API</title>
+
+            <link rel="stylesheet" type="text/css" href="../../../css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="../../../css/sami.css">
+        <script src="../../../js/jquery-1.11.1.min.js"></script>
+        <script src="../../../js/bootstrap.min.js"></script>
+        <script src="../../../js/typeahead.min.js"></script>
+        <script src="../../../sami.js"></script>
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    
+    
+    </head>
+
+    <body id="class" data-name="class:AcademicPuma_RestClient_Config_Entrytype" data-root-path="../../../">
+            <div id="content">
+        <div id="left-column">
+                <div id="control-panel">
+                <form id="search-form" action="../../../search.html" method="GET">
+            <span class="glyphicon glyphicon-search"></span>
+            <input name="search"
+                   class="typeahead form-control"
+                   type="search"
+                   placeholder="Search">
+        </form>
+    </div>
+
+                <div id="api-tree"></div>
+
+        </div>
+        <div id="right-column">
+                <nav id="site-nav" class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-elements">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../../../index.html">API</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-elements">
+                <ul class="nav navbar-nav">
+                    <li><a href="../../../classes.html">Classes</a></li>
+                                            <li><a href="../../../namespaces.html">Namespaces</a></li>
+                                        <li><a href="../../../interfaces.html">Interfaces</a></li>
+                    <li><a href="../../../traits.html">Traits</a></li>
+                    <li><a href="../../../doc-index.html">Index</a></li>
+                    <li><a href="../../../search.html">Search</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+                        <div class="namespace-breadcrumbs">
+            <ol class="breadcrumb">
+                <li><span class="label label-default">class</span></li>
+                                                            <li><a href="../../../AcademicPuma.html">AcademicPuma</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient.html">RestClient</a></li>
+                                        <li><a href="../../../AcademicPuma/RestClient/Config.html">Config</a></li>
+    
+                <li>Entrytype</li>
+            </ol>
+        </div>
+                <div id="page-content">
+                
+    <div class="page-header">
+        <h1>Entrytype</h1>
+    </div>
+
+    <p>    class
+    <strong>Entrytype</strong>
+</p>
+
+            <div class="description">
+            <p>Contains constant values of all BibTeX Entry types.</p>                    </div>
+    
+    
+            <h2>Constants</h2>
+
+            <table class="table table-condensed">
+                    <tr>
+                <td>ARTICLE</td>
+                <td class="last">
+                    <p><em>An article from a journal or magazine.</em></p>
+                    <p>Required fields: author, title, journal, year
+Optional fields: volume, number, pages, month, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>BOOK</td>
+                <td class="last">
+                    <p><em>A book with an explicit publisher.</em></p>
+                    <p>Required fields: author/editor, title, publisher, year
+Optional fields: volume/number, series, address, edition, month, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>BOOKLET</td>
+                <td class="last">
+                    <p><em>A work that is printed and bound, but without a named publisher or sponsoring institution.</em></p>
+                    <p>Required fields: title
+Optional fields: author, howpublished, address, month, year, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>CONFERENCE</td>
+                <td class="last">
+                    <p><em>The same as inproceedings, included for Scribe compatibility.</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>INBOOK</td>
+                <td class="last">
+                    <p><em>A part of a book, usually untitled. May be a chapter (or section or whatever) and/or a range of pages.</em></p>
+                    <p>Required fields: author/editor, title, chapter/pages, publisher, year
+Optional fields: volume/number, series, type, address, edition, month, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>INCOLLECTION</td>
+                <td class="last">
+                    <p><em>A part of a book having its own title.</em></p>
+                    <p>Required fields: author, title, booktitle, publisher, year
+Optional fields: editor, volume/number, series, type, chapter, pages, address, edition, month, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>INPROCEEDINGS</td>
+                <td class="last">
+                    <p><em>An article in a conference proceedings.</em></p>
+                    <p>Required fields: author, title, booktitle, year
+Optional fields: editor, volume/number, series, pages, address, month, organization, publisher, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>MANUAL</td>
+                <td class="last">
+                    <p><em>Technical documentation.</em></p>
+                    <p>Required fields: title
+Optional fields: author, organization, address, edition, month, year, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>MASTERTHESIS</td>
+                <td class="last">
+                    <p><em>A Master's thesis.</em></p>
+                    <p>Required fields: author, title, school, year
+Optional fields: type, address, month, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>MISC</td>
+                <td class="last">
+                    <p><em>For use when nothing else fits.</em></p>
+                    <p>Required fields: none
+Optional fields: author, title, howpublished, month, year, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>PHDTHESIS</td>
+                <td class="last">
+                    <p><em>A Ph.D. thesis.</em></p>
+                    <p>Required fields: author, title, school, year
+Optional fields: type, address, month, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>PROCEEDINGS</td>
+                <td class="last">
+                    <p><em>The proceedings of a conference.</em></p>
+                    <p>Required fields: title, year
+Optional fields: editor, volume/number, series, address, month, publisher, organization, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>TECHREPORT</td>
+                <td class="last">
+                    <p><em>A report published by a school or other institution, usually numbered within a series.</em></p>
+                    <p>Required fields: author, title, institution, year
+Optional fields: type, number, address, month, note, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>UNPUBLISHED</td>
+                <td class="last">
+                    <p><em>A document having an author and title, but not formally published.</em></p>
+                    <p>Required fields: author, title, note
+Optional fields: month, year, key</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>PERIODICAL</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>PATENT</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>ELECTRONIC</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>STANDARD</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+                    <tr>
+                <td>PREPRINT</td>
+                <td class="last">
+                    <p><em>
+</em></p>
+                    <p>
+</p>
+                </td>
+            </tr>
+            </table>
+
+    
+    
+    
+            </div>
+                <div id="footer">
+        Generated by <a href="http://sami.sensiolabs.org/">Sami, the API Documentation Generator</a>.
+    </div>
+
+        </div>
+    </div>
+    </body>
+
+</html>

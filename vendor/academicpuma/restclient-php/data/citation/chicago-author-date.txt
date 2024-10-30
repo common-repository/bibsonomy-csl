@@ -1,0 +1,41 @@
+Hanika, Tom, Marx, Maximilian and Stumme, Gerd. "Discovering Implicational Knowledge in Wikidata." Paper presented at the meeting of the Formal Concept Analysis, Cham, 2019.
+
+Schäfermeier, Bastian, Hanika, Tom and Stumme, Gerd Distances for WiFi Based Topological Indoor Mapping. , MobiQuitous , In-Press (2019). .
+
+International Journal of Computer-Supported Collaborative Learning. Springer and of the Learning Sciences, International Society, eds. (2019). .
+
+Stubbemann, Maximilian, Hanika, Tom and Stumme, Gerd. "Orometric Methods in Bounded Metric Data.." CoRR abs/1907.09239 (2019): .
+
+Wei, Colin and Ma, Tengyu. "Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation." Paper presented at the meeting of the , 2019.
+
+Navarro Bullock, Beate, Hotho, Andreas and Stumme, Gerd Accessing Information with Tags: Search and Ranking. Brusilovsky, Peter and He, Daqing, eds. Social Information Access: Systems and Technologies , Springer International Publishing , Cham (2018). , 310--343 .
+
+Shankar, Varun, Kirby, Robert M. and Fogelson, Aaron L. Robust Node Generation for Meshfree Discretizations on Irregular Domains and Surfaces. (2018). , cite arxiv:1806.02972Comment: 26 pages, 9 figures, accepted SIAM Journal on Scientific Computing .
+
+Wei, Chao-Ke Container data center . (2015). , Container data center .
+
+Böttger, Sebastian PUMA als Schnittstelle zwischen Discovery Service, Institutional Repository und eLearning. , Berufsverband Information Bibliothek , Reutlingen (2014). .
+
+Doerfel, Stephan, Zoller, Daniel, Singer, Philipp, Niebler, Thomas, Hotho, Andreas and Strohmaier, Markus Of course we Share! Testing Assumptions about Social Tagging Systems. , arXiv.org (2014). .
+
+Jäschke, Robert, Hotho, Andreas, Mitzlaff, Folke and Stumme, Gerd. "Challenges in Tag Recommendations for Collaborative Tagging Systems." In Recommender Systems for the Social Web , edited by José J. Pazos Arias, Ana Fernández Vilas and Rebeca P. Díaz Redondo , 65--87. Berlin/Heidelberg: Springer, 2012.
+
+Kibanov, Mark. "Untersuchung von Versionsverwaltungssystemen mit Zielsetzung der Optimierung der kollaborativen Entwicklung." Masters thesis, Humboldt-University of Berlin, 2012.
+
+Formal Concept Analysis. Valtchev, Petko and Jäschke, Robert, eds. , Springer , Berlin/Heidelberg (2011). .
+
+Bird, Steven, Klein, Ewan and Loper, Edward Natural Language Processing with Python. Media, O'Reilly, eds. (2009). .
+
+Hotho, Andreas. "Clustern mit Hintergrundwissen." PhD diss., University of Karlsruhe, 2004.
+
+Russell, N., Hofstede, A.H.M. ter, Edmond, D. and Aalst, W.M.P. van der Workflow Data Patterns. , QUT Technical report, FIT-TR-2004-01 , Queensland University of Technology, Brisbane (2004). .
+
+Smith, Gene. "Folksonomy: social classification." 2004.
+
+Cross-cultural survey methods. Harkness, Janet A., van de Vijver, Fons J. R., Mohler, Peter Ph and Mohler, Peter Ph., eds. , J. Wiley and Wiley-Interscience (2003). .
+
+Russell, Stuart J. and Norvig, Peter. Artificial Intelligence: A Modern Approach. Zweite Upper Saddle River, New Jersey, USA: Prentice Hall, 2003.
+
+Bray, Tim, Paoli, Jean, Sperberg-McQueen, C Michael, Maler, Eve and Yergeau, Franois Extensible markup language (XML) 1.0. , W3C recommendation October (2000). .
+
+Janosi, Andras, Steinbrunn, William, Pfisterer, Matthias and Detrano, Robert Heart Disease Data Set. (1988). .

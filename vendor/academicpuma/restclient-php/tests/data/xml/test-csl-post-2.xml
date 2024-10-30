@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibsonomy stat="ok">
+    <post description="" postingdate="2014-09-23T13:59:21.000+02:00" changedate="2014-09-23T14:02:50.000+02:00">
+        <user name="sdo" href="http://www.bibsonomy.org/api/users/sdo"/>
+        <group name="public" href="http://www.bibsonomy.org/api/groups/public"/>
+        <tag name="2014" href="http://www.bibsonomy.org/api/tags/2014"/>
+        <tag name="WWW" href="http://www.bibsonomy.org/api/tags/WWW"/>
+        <tag name="analyis" href="http://www.bibsonomy.org/api/tags/analyis"/>
+        <tag name="behavior" href="http://www.bibsonomy.org/api/tags/behavior"/>
+        <tag name="log" href="http://www.bibsonomy.org/api/tags/log"/>
+        <tag name="myown" href="http://www.bibsonomy.org/api/tags/myown"/>
+        <tag name="social" href="http://www.bibsonomy.org/api/tags/social"/>
+        <tag name="tagging" href="http://www.bibsonomy.org/api/tags/tagging"/>
+        <tag name="user" href="http://www.bibsonomy.org/api/tags/user"/>
+        <documents>
+            <document filename="pos063-doerfel.pdf" md5hash="4f5e73d65ac935f9a6da87721cb24588" href="http://www.bibsonomy.org/api/users/sdo/posts/11fab5468dd4b4e3db662ea5e68df8e0/documents/pos063-doerfel.pdf"/>
+        </documents>
+        <bibtex title="How Social is Social Tagging?"
+                bibtexKey="doerfel2014social"
+                misc=""
+                entrytype="inproceedings"
+                address="New York, NY, USA"
+                author="Doerfel, Stephan and Zoller, Daniel and Singer, Philipp and Niebler, Thomas and Hotho, Andreas and Strohmaier, Markus"
+                booktitle="Proceedings of the 23rd International World Wide Web Conference"
+                publisher="ACM"
+                series="WWW 2014"
+                year="2014"
+                intrahash="11fab5468dd4b4e3db662ea5e68df8e0"
+                interhash="9223d6d728612c8c05a80b5edceeb78b"
+                href="http://www.bibsonomy.org/api/users/sdo/posts/11fab5468dd4b4e3db662ea5e68df8e0"/>
+    </post>
+</bibsonomy>
